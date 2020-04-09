@@ -1,4 +1,4 @@
-package com.java.algorithms.example;
+package com.java.algorithms.example.sort;
 
 /**
  * Comparable是排序接口。若一个类实现了Comparable接口，就意味着该类支持排序。

@@ -1,40 +1,41 @@
-package com.java.algorithms.example.insertion;
+package com.java.algorithms.example.sort.quick;
 
-import com.java.algorithms.example.SortTestHelper;
-import com.java.algorithms.example.Student;
+import com.java.algorithms.example.sort.SortTestHelper;
+import com.java.algorithms.example.sort.Student;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
 
 /**
  * @author jingLv
- * @date 2020-04-08 10:34 AM
+ * @date 2020-04-08 11:26 AM
  */
-public class InsertionSortTest {
+public class QuickSortTest {
+
     private int[] arr = SortTestHelper.generateRandomArray(10, 1, 20);
 
     @Test
-    public void testInsertionSort() {
+    public void testQuickSort() {
         System.out.println("-------------排序前的数组----------------");
         System.out.println(Arrays.toString(arr));
         System.out.println("-------------排序后的数组----------------");
         assert arr != null;
         long startTime = System.currentTimeMillis();
-        int[] beforeArr = InsertionSort.insertionSort(arr);
+        int[] beforeArr = QuickSort.quickSort(arr, 0, arr.length-1);
         long endTime = System.currentTimeMillis();
         System.out.println(Arrays.toString(beforeArr));
         System.out.println("排序花费的时间：" + (endTime - startTime));
     }
 
     @Test
-    public void testInsertionSortStudent(){
+    public void testQuickSortStudent(){
         Student[] arr = new Student[4];
-        arr[0] = new Student("D", 68);
-        arr[1] = new Student("C", 18);
-        arr[2] = new Student("B", 80);
-        arr[3] = new Student("A", 20);
+        arr[0] = new Student("D", 82);
+        arr[1] = new Student("C", 60);
+        arr[2] = new Student("B", 72);
+        arr[3] = new Student("A", 58);
 
-        InsertionSort.insertionSortStudent(arr);
+        QuickSort.quickSortStudent(arr, 0, arr.length-1);
         System.out.println(Arrays.toString(arr));
     }
 }

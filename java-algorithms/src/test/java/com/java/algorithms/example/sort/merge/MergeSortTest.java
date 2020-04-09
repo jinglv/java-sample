@@ -1,6 +1,6 @@
-package com.java.algorithms.example.merge;
+package com.java.algorithms.example.sort.merge;
 
-import com.java.algorithms.example.SortTestHelper;
+import com.java.algorithms.example.sort.SortTestHelper;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;

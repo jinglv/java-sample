@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeReview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/insertion/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/merge/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/quick/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/selection/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/insertion/InsertionSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/merge/MergeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/quick/QuickSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/selection/SelectionSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/thread/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="[add]学习内容">
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Sort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/shell/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/shell/ShellSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/IMessageFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/IUserCredential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/impl/MessageFormatImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/impl/UserCredentialImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/bubble/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/bubble/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/bubble/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/test-classes/com/java/design/pattern/sample/strategy/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/target/test-classes/com/java/design/pattern/sample/strategy/CalculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-principle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-principle/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8-new/java8-new.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/java-new.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8-new/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/insertion/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/merge/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/merge/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/quick/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/selection/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/selection/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/bubble/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/bubble/BubbleSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/insertion/InsertionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/insertion/InsertionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/merge/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/merge/MergeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/quick/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/quick/QuickSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/selection/SelectionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/selection/SelectionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/thread/ThreadDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/java8new/target/" />
@@ -53,23 +52,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-new/README.md">
+      <file leaf-file-name="Sort.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Sort.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <first_editor relative-caret-position="525">
+                <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/thread/ThreadDemo.java">
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/merge/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="129">
+              <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2501">
+              <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -79,9 +87,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TestNG Test Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="TestNG Test Class" />
       </list>
     </option>
   </component>
@@ -96,14 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java8new/src/main/java/com/java8/sample/interfaces/Formula.java" />
-        <option value="$PROJECT_DIR$/java8new/src/main/java/com/java8/sample/interfaces/Calculate.java" />
-        <option value="$PROJECT_DIR$/java8new/src/main/java/com/java8/sample/lambda/ThreadLambda.java" />
-        <option value="$PROJECT_DIR$/java8new/README.md" />
-        <option value="$PROJECT_DIR$/java8new/src/main/java/com/java8/sample/functional/Converter.java" />
-        <option value="$PROJECT_DIR$/java8new/src/main/java/com/java8/sample/functional/ConverterImpl.java" />
-        <option value="$PROJECT_DIR$/java8new/src/test/java/com/java8/sample/functional/ConverterTest.java" />
-        <option value="$PROJECT_DIR$/javadesignpattern/pom.xml" />
         <option value="$PROJECT_DIR$/java-design-pattern/README.md" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Operation.java" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationSub.java" />
@@ -145,8 +145,16 @@
         <option value="$PROJECT_DIR$/java-new/src/test/java/com/java/example/lambda/thread/ThreadDemo.java" />
         <option value="$PROJECT_DIR$/java-new/src/test/java/com/java/example/lambda/function/IUserCredential.java" />
         <option value="$PROJECT_DIR$/java-new/src/test/java/com/java/example/lambda/function/IMessageFormat.java" />
-        <option value="$PROJECT_DIR$/java-algorithms/README.md" />
+        <option value="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/thread/ThreadDemo.java" />
         <option value="$PROJECT_DIR$/java-new/README.md" />
+        <option value="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/impl/UserCredentialImpl.java" />
+        <option value="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/IUserCredential.java" />
+        <option value="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/IMessageFormat.java" />
+        <option value="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/impl/MessageFormatImpl.java" />
+        <option value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/shell/ShellSort.java" />
+        <option value="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/shell/ShellSortTest.java" />
+        <option value="$PROJECT_DIR$/java-algorithms/README.md" />
+        <option value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Sort.md" />
       </list>
     </option>
   </component>
@@ -183,10 +191,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="819" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -203,6 +211,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -214,35 +224,82 @@
             <path>
               <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-new" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-new" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-new" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-new" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-new" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,11 +319,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.java.algorithms.example.shell" />
       <recent name="com.java.algorithms.example.merge" />
       <recent name="com.java.algorithms.example.quick" />
       <recent name="com.java.algorithms.example.insertion" />
       <recent name="com.java.algorithms.example.selection" />
-      <recent name="com.java.algorithms.example.bubble" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
@@ -293,7 +350,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadDemo">
+  <component name="RunManager" selected="TestNG.ShellSortTest.testShellSort">
+    <configuration name="ThreadDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.example.lambda.thread.ThreadDemo" />
+      <module name="java-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.example.lambda.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda.thread.ThreadDemo" />
       <module name="java-new" />
@@ -333,40 +400,11 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="CalculatorTest.testDoOperationAdd" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java-design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.design.pattern.sample.strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.java.design.pattern.sample.strategy" />
-      <option name="MAIN_CLASS_NAME" value="com.java.design.pattern.sample.strategy.CalculatorTest" />
-      <option name="METHOD_NAME" value="testDoOperationAdd" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="MergeSortTest.testMergeSort" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.algorithms.example.merge.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.sort.merge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,7 +412,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.java.algorithms.example.merge" />
-      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.merge.MergeSortTest" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.sort.merge.MergeSortTest" />
       <option name="METHOD_NAME" value="testMergeSort" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -391,20 +429,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="QuickSortTest.testQuickSortStudent" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ShellSortTest.testShellSort" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.algorithms.example.quick.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.sort.shell.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.java.algorithms.example.quick" />
-      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.quick.QuickSortTest" />
-      <option name="METHOD_NAME" value="testQuickSortStudent" />
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.shell" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.sort.shell.ShellSortTest" />
+      <option name="METHOD_NAME" value="testShellSort" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" />
@@ -421,19 +459,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.QuickSortTest.testQuickSortStudent" />
-      <item itemvalue="TestNG.CalculatorTest.testDoOperationAdd" />
       <item itemvalue="TestNG.CalculatorTest" />
       <item itemvalue="TestNG.MergeSortTest.testMergeSort" />
       <item itemvalue="Application.ThreadDemo" />
+      <item itemvalue="Application.ThreadDemo (1)" />
+      <item itemvalue="TestNG.ShellSortTest.testShellSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ShellSortTest.testShellSort" />
+        <item itemvalue="Application.ThreadDemo (1)" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="TestNG.MergeSortTest.testMergeSort" />
         <item itemvalue="TestNG.CalculatorTest" />
-        <item itemvalue="TestNG.CalculatorTest.testDoOperationAdd" />
-        <item itemvalue="TestNG.QuickSortTest.testQuickSortStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -454,13 +492,21 @@
       <workItem from="1585981134042" duration="49000" />
       <workItem from="1585981201800" duration="3511000" />
       <workItem from="1586160361923" duration="6411000" />
+      <workItem from="1586410377111" duration="1540000" />
+      <workItem from="1586418171388" duration="946000" />
+      <workItem from="1586423492231" duration="2408000" />
     </task>
+    <task id="LOCAL-00001" summary="[add]学习内容">
+      <created>1586354600960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586354600960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SelectionSortTest_testSelectionStudentSort - 2020.04.07 at 11h 50m 35s.xml">
-      <configuration name="SelectionSortTest.testSelectionStudentSort" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="InsertionSortTest_testInsertionSort - 2020.04.08 at 10h 35m 44s.xml">
       <configuration name="InsertionSortTest.testInsertionSort" configurationId="TestNG" />
     </history-entry>
@@ -488,12 +534,15 @@
     <history-entry file="MergeSortTest_testMergeSort - 2020.04.08 at 15h 28m 16s.xml">
       <configuration name="MergeSortTest.testMergeSort" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ShellSortTest_testShellSort - 2020.04.09 at 17h 38m 45s.xml">
+      <configuration name="ShellSortTest.testShellSort" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35929000" />
+    <option name="totallyTimeSpent" value="41654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="819" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -502,56 +551,42 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.3891273" />
-      <window_info anchor="right" id="Maven Projects" weight="0.3297568" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.26323318" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299566" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="SciView" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3895184" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32850942" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45454547" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299566" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992785" visible="true" weight="0.2811159" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info id="Structure" order="1" sideWeight="0.5007215" side_tool="true" visible="true" weight="0.2811159" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[add]学习内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]学习内容" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -563,73 +598,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy.java" />
-    <entry file="uml://JAVA/com.java.design.pattern.sample.strategy.Calculator">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.java.design.pattern.sample.strategy.Calculator</OriginalElement>
-          <nodes>
-            <node x="468.0" y="36.0">com.java.design.pattern.sample.strategy.Calculator</node>
-            <node x="215.0" y="98.0">com.java.design.pattern.sample.strategy.OperationAdd</node>
-            <node x="0.0" y="98.0">com.java.design.pattern.sample.strategy.OperationSub</node>
-            <node x="107.5" y="0.0">com.java.design.pattern.sample.strategy.Operation</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.java.design.pattern.sample.strategy.OperationAdd" target="com.java.design.pattern.sample.strategy.Operation">
-              <point x="0.0" y="-24.0" />
-              <point x="312.5" y="73.0" />
-              <point x="253.75" y="73.0" />
-              <point x="48.75" y="24.0" />
-            </edge>
-            <edge source="com.java.design.pattern.sample.strategy.OperationSub" target="com.java.design.pattern.sample.strategy.Operation">
-              <point x="0.0" y="-24.0" />
-              <point x="97.5" y="73.0" />
-              <point x="156.25" y="73.0" />
-              <point x="-48.75" y="24.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="64.0" y="104.0" />
-          <SelectedNodes>
-            <node>com.java.design.pattern.sample.strategy.Calculator</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8-new/src/main/java/com/java8/sample/lambda/task/TaskAThread.java" />
-    <entry file="file://$PROJECT_DIR$/java8-new/src/main/java/com/java8/example/lam/TaskAThread.java" />
-    <entry file="file://$PROJECT_DIR$/java8-new/src/main/java/com/java8/example/lam/RunOne.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Runnable.java" />
-    <entry file="file://$PROJECT_DIR$/java8-new/src/main/java/com/java8/example/lambda/task/TaskAThreadTwo.java" />
-    <entry file="file://$PROJECT_DIR$/java8-new/src/main/java/com/java8/example/lambda/task/TaskAThreadOne.java" />
     <entry file="file://$PROJECT_DIR$/java8-new/src/main/java/com/java8/example/lambda/task/TaskAThreadThree.java" />
     <entry file="file://$PROJECT_DIR$/java8-new/README.md" />
-    <entry file="file://$PROJECT_DIR$/java8-new/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java8-new/pom.xml" />
     <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/example.java" />
     <entry file="file://$PROJECT_DIR$/java-algorithms/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-new/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -678,82 +654,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/SortTestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/bubble/BubbleSortTest.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/bubble/BubbleSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="49" column="38" selection-start-line="45" selection-start-column="8" selection-end-line="49" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/bubble/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/bubble/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
           <caret line="83" column="40" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/selection/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/selection/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/insertion/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/insertion/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1273">
           <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-379">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/quick/QuickSortTest.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/quick/QuickSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/selection/SelectionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/quick/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/quick/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,12 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,83 +801,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/insertion/InsertionSortTest.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/insertion/InsertionSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="25" column="63" selection-start-line="17" selection-start-column="8" selection-end-line="25" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/merge/MergeSortTest.java">
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/merge/MergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/lambda/function/IUserCredential.java" />
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/lambda/function/IMessageFormat.java" />
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/lambda/thread/ThreadDemo.java" />
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/thread/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        <state relative-caret-position="108">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/merge/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/java-new/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="71" column="47" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/lambda/function/IUserCredential.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/lambda/function/IMessageFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/lambda/thread/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="209">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="399">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-new/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <first_editor relative-caret-position="589">
+            <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/thread/ThreadDemo.java">
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/impl/UserCredentialImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="190">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/IUserCredential.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/IMessageFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/function/impl/MessageFormatImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/selection/SelectionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" column="63" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="26" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/shell/ShellSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/shell/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/merge/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2501">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Sort.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="525">
+            <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

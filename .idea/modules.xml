@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-new/java-new.iml" filepath="$PROJECT_DIR$/java-new/java-new.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-principle/java-principle.iml" filepath="$PROJECT_DIR$/java-principle/java-principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-sample.iml" filepath="$PROJECT_DIR$/java-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java8-new/java8-new.iml" filepath="$PROJECT_DIR$/java8-new/java8-new.iml" />
     </modules>
   </component>
 </project>

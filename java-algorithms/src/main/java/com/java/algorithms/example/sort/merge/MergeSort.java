@@ -1,4 +1,4 @@
-package com.java.algorithms.example.merge;
+package com.java.algorithms.example.sort.merge;
 
 /**
  * 归并排序

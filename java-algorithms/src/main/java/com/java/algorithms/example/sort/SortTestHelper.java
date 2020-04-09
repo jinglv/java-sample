@@ -1,4 +1,4 @@
-package com.java.algorithms.example;
+package com.java.algorithms.example.sort;
 
 /**
  * 排序需要的辅助工具

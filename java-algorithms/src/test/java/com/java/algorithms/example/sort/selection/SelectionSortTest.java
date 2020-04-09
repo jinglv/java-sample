@@ -1,7 +1,7 @@
-package com.java.algorithms.example.selection;
+package com.java.algorithms.example.sort.selection;
 
-import com.java.algorithms.example.SortTestHelper;
-import com.java.algorithms.example.Student;
+import com.java.algorithms.example.sort.SortTestHelper;
+import com.java.algorithms.example.sort.Student;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;

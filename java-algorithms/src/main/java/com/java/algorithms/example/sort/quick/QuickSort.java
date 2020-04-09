@@ -1,7 +1,7 @@
-package com.java.algorithms.example.quick;
+package com.java.algorithms.example.sort.quick;
 
-import com.java.algorithms.example.SortTestHelper;
-import com.java.algorithms.example.Student;
+import com.java.algorithms.example.sort.SortTestHelper;
+import com.java.algorithms.example.sort.Student;
 
 /**
  * 快速排序
