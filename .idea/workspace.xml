@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/java-algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/SortTestHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/bubble/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/bubble/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/test/java/com/java/design/pattern/sample/strategy/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-principle/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-principle/java-principle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-principle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaDiscountCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-sample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8-new/java8-new.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8-new/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/java8new/target/" />
     <ignored path="$PROJECT_DIR$/javadesignpattern/target/" />
@@ -59,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-principle/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
+            <state split_layout="SECOND">
               <first_editor relative-caret-position="120">
                 <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               </first_editor>
@@ -84,23 +49,21 @@
         <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaCourse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaDiscountCourse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="45">
+              <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
               <folding>
                 <element signature="e#207#208#0" expanded="true" />
                 <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -222,51 +185,6 @@
             <path>
               <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-principle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-principle" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-principle" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-principle" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-principle" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="java-principle" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="ocp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -429,8 +347,16 @@
       <workItem from="1585980521467" duration="586000" />
       <workItem from="1585981134042" duration="49000" />
       <workItem from="1585981201800" duration="3511000" />
-      <workItem from="1586160361923" duration="6411000" />
+      <workItem from="1586160361923" duration="6739000" />
     </task>
+    <task id="LOCAL-00001" summary="[add]增加对java的学习示例及笔记">
+      <created>1586167162661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586167162662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -466,7 +392,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16449000" />
+    <option name="totallyTimeSpent" value="16777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
@@ -505,6 +431,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[add]增加对java的学习示例及笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]增加对java的学习示例及笔记" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -765,13 +695,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-principle/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaDiscountCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -782,25 +722,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/JavaDiscountCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/java-principle/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
