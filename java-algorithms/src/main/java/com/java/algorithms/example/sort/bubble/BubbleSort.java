@@ -1,7 +1,7 @@
-package com.java.algorithms.example.bubble;
+package com.java.algorithms.example.sort.bubble;
 
-import com.java.algorithms.example.SortTestHelper;
-import com.java.algorithms.example.Student;
+import com.java.algorithms.example.sort.SortTestHelper;
+import com.java.algorithms.example.sort.Student;
 
 /**
  * 冒泡排序
@@ -84,19 +84,30 @@ public class BubbleSort {
      * @param studentComparable 待排序的对象集合
      */
     public static void bubbleSortStudent(Comparable<Student>[] studentComparable) {
+        // 对象数组的长度
         int l = studentComparable.length;
 
+        // 记录是否已经发生交换，0表示未发生交换，1表示已发生交换
         int isChange;
 
+        // 外层循环是排序的趟数
         for (int i = 0; i < l - 1; i++) {
+
+            // 每⽐较⼀趟就重新初始化为0
             isChange = 0;
-            for (int j = 1; j < l - i - 1; j++) {
+
+            // 内层循环是当前趟数需要⽐较的次数
+            for (int j = 0; j < l - i - 1; j++) {
+                //前⼀位与后⼀位与前⼀位⽐较，如果前⼀位⽐后⼀位要⼤，那么交换
                 if (studentComparable[j].compareTo((Student) studentComparable[j + 1]) > 0) {
                     SortTestHelper.swap(studentComparable, j, j + 1);
 
+                    // 在完成数组元素交换后，记录已交换
                     isChange = 1;
                 }
             }
+
+            //如果⽐较完⼀趟没有发⽣置换，那么说明已经排好序了，不需要再执⾏下去了
             if (isChange == 0) {
                 break;
             }
