@@ -18,17 +18,27 @@ public interface IUserCredential {
     String verifyUser(String username);
 
     /**
-     * 默认方法
+     * 集成Object的方法
+     * @return 返回
+     */
+    @Override
+    String toString();
+
+    /**
+     * 默认方法, 功能的扩展
      *
-     * @param username
-     * @return
+     * @param username 要验证的用户账号
+     * @return 返回身份信息【系统管理员、用户管理员、普通用户】
      */
     default String getCredential(String username) {
+        String systemManager = "admin";
+        String userManager = "manager";
+
         // 模拟方法
-        if ("admin".equals(username)) {
+        if (systemManager.equals(username)) {
             return "admin + 系统管理员";
-        } else if ("manager".equals(username)) {
-            return "admin + 用户管理员";
+        } else if (userManager.equals(username)) {
+            return "manager + 用户管理员";
         } else {
             return "commons + 普通会员用户";
         }

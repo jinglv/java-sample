@@ -19,15 +19,12 @@ public interface IMessageFormat {
     String format(String message, String format);
 
     /**
-     * 消息合法性验证方法
+     * 静态处理方法，消息合法性验证方法
      *
      * @param msg 需要验证的消息
      * @return  返回验证结果
      */
     static boolean verifyMessage(String msg) {
-        if (msg != null){
-            return true;
-        }
-        return false;
+        return msg != null;
     }
 }

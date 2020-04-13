@@ -9,6 +9,13 @@ import com.java.example.lambda.function.IUserCredential;
 public class UserCredentialImpl implements IUserCredential {
     @Override
     public String verifyUser(String username) {
-        return null;
+        String systemManager = "admin";
+        String userManager = "manager";
+        if (systemManager.equals(username)) {
+            return "系统管理员";
+        } else if (userManager.equals(username)) {
+            return "用户管理员";
+        }
+        return "普通会员";
     }
 }
