@@ -64,7 +64,8 @@ System.out.println(ic3.verifyUser("manager"));
 - java.lang.Comparable
 - java.lang.Comparator
 - java.io.FileFilter
-...
+- ...
+
 
 - jdk8提供了java.util.function包，提供了常用的函数式功能接口
 - java.util.function.Predicate<T>
@@ -124,4 +125,27 @@ java.util.function提供了大量的函数式接口：
 - BinaryOperator 接收两个T对象，执行业务处理后，返回一个T对象
 
 #### Lambda语法及使用
+- Lambda表达式基本语法
+    - 声明：和lambda表达式绑定的接口类型
+    - 参数：包含在一对圆括号中，和绑定的接口中的抽象方法中的参数个数及顺序一致
+    - 操作符：->
+    - 执行代码块：包含在一对大括号中，出现在操作符号的右侧
+    ```
+    [接口声明] = (参数) -> {执行代码块}
+    ```
+    
+    总结：
+        - lambda表达式，必须和接口进行绑定
+        - lambda表达式的参数，可以附带0个到n个参数，括号中的参数类型可以不用指定，jvm在运行时，会自动根据绑定的抽象方法中的参数进行推导
+        - lambda表达式的返回值，如果代码块只有一行，并且没有大括号，不用写return关键字，单行代码的执行结果，会自动返回，如果添加了大括号，或者多行代码，必须通过return关键字返回执行结果
+        - 
+- 带参数的Lambda表达式
+- 带返回值的Lambda表达式
+
+#### Lambda表达式变量捕获
+- 匿名内部类中的变量捕获
+- Lambda表达式中的变量捕获
+
+总结：Lambda表达式中的变量操作优化了匿名内部类型中this关键字，不在单独建立对象作用域，表达式本身就是所属对象的一部分，在语法语义上使用更加简洁
+
 #### Lambda表达式运行原理
