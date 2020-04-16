@@ -1,4 +1,4 @@
-package com.java.example.lambda;
+package com.java.example.lambda.base;
 
 /**
  * lambda表达式的基本语法

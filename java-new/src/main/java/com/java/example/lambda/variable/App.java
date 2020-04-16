@@ -1,4 +1,4 @@
-package com.java.example.lambda;
+package com.java.example.lambda.variable;
 
 /**
  * @author jingLv

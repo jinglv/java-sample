@@ -13,12 +13,21 @@ package com.java.algorithms.example.structure.linked;
  * <p>
  * - 获取链表的长度
  * - 遍历一下，每得到一个节点+1
+ * <p>
+ * - 遍历链表
+ * - 如果节点不为空，直接输出
+ * <p>
+ * - 删除节点
+ * - 将上一个节点的指针域改变一下，就可以删除
  *
  * @author jingLv
  * @date 2020-04-13 11:14 AM
  */
 public class NodeOperation {
 
+    /**
+     * 定义全局变量head，为头节点
+     */
     private static Node head = new Node();
 
     /**
@@ -78,7 +87,7 @@ public class NodeOperation {
                 return;
             }
 
-            currentPos ++;
+            currentPos++;
             temp = temp.next;
         }
 
@@ -122,6 +131,45 @@ public class NodeOperation {
                 System.out.println(temp.data);
             }
             // 继续下一个
+            temp = temp.next;
+        }
+    }
+
+    /**
+     * 根据位置删除节点
+     *
+     * @param head  头指针
+     * @param index 要删除的位置
+     */
+    public static void deleteNode(Node head, int index) {
+        // 首先需要判断指定位置是否合法
+        if (index < 1 || index > linkListLength(head) + 1) {
+            System.out.println("删除位置不合法");
+            return;
+        }
+
+        //临时节点，从头节点开始
+        Node temp = head;
+
+        //记录遍历的当前位置
+        int currentPos = 0;
+
+        while (temp.next != null) {
+            //找到上一个节点的位置
+            if ((index - 1) == currentPos) {
+                //temp表示上一个节点，temp.next表示的是想要删除的节点
+                //将想要删除的节点存储一下
+                Node deleteNode = temp.next;
+
+                //想要删除的节点，又该节点的下一个节点来控制（不太明白）
+                deleteNode = deleteNode.next;
+
+                //JVM会回收
+                deleteNode = null;
+
+                return;
+            }
+            currentPos++;
             temp = temp.next;
         }
     }
