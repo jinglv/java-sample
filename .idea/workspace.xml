@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/SumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-mybatis-plus/java-mybatis-plus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-mybatis-plus/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" afterDir="false" />
-    </list>
+    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="[add]学习内容" />
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/java8new/target/" />
     <ignored path="$PROJECT_DIR$/javadesignpattern/target/" />
     <ignored path="$PROJECT_DIR$/java-design-pattern/target/" />
-    <ignored path="$PROJECT_DIR$/java-8new/target/" />
-    <ignored path="$PROJECT_DIR$/java8-new/target/" />
     <ignored path="$PROJECT_DIR$/java-algorithms/target/" />
     <ignored path="$PROJECT_DIR$/java-principle/target/" />
     <ignored path="$PROJECT_DIR$/java-new/target/" />
-    <ignored path="$PROJECT_DIR$/java-mybatis-plus/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,49 +23,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md">
+        <entry file="file://$PROJECT_DIR$/java-principle/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/SumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java">
+        <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/shell/ShellSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="345">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,6 +101,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/java-design-pattern/README.md" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Operation.java" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationSub.java" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationAdd.java" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Calculator.java" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/test/java/com/java/design/pattern/sample/strategy/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/java-8new/pom.xml" />
         <option value="$PROJECT_DIR$/java-8new/README.md" />
         <option value="$PROJECT_DIR$/java8-new/README.md" />
@@ -189,12 +152,6 @@
         <option value="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/shell/ShellSortTest.java" />
         <option value="$PROJECT_DIR$/java-algorithms/README.md" />
         <option value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Sort.md" />
-        <option value="$PROJECT_DIR$/java-mybatis-plus/pom.xml" />
-        <option value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Sum.java" />
-        <option value="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/SumTest.java" />
-        <option value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" />
-        <option value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" />
-        <option value="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java" />
       </list>
     </option>
   </component>
@@ -213,7 +170,12 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java8-new" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -247,6 +209,58 @@
               <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-sample" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="java-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="shell" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -271,11 +285,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.java.algorithms.example.structure.recursion" />
       <recent name="com.java.algorithms.example.shell" />
       <recent name="com.java.algorithms.example.merge" />
       <recent name="com.java.algorithms.example.quick" />
       <recent name="com.java.algorithms.example.insertion" />
+      <recent name="com.java.algorithms.example.selection" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
@@ -302,19 +316,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MaxTest.testMaxFor">
-    <configuration name="MaxTest.testMaxFor" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
+  <component name="RunManager" selected="TestNG.ShellSortTest">
+    <configuration name="ThreadDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.example.lambda.thread.ThreadDemo" />
+      <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.algorithms.example.structure.recursion.*" />
+          <option name="PATTERN" value="com.java.example.lambda.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.recursion" />
-      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.recursion.MaxTest" />
-      <option name="METHOD_NAME" value="testMaxFor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.thread.ThreadDemo" />
+      <module name="java-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortTest.testMergeSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.algorithms.example.sort.merge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.merge" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.sort.merge.MergeSortTest" />
+      <option name="METHOD_NAME" value="testMergeSort" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <properties />
       <listeners />
       <method v="2">
@@ -358,55 +400,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.algorithms.example.structure.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.recursion" />
-      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.recursion.SumTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumTest.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.algorithms.example.structure.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.recursion" />
-      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.recursion.SumTest" />
-      <option name="METHOD_NAME" value="testSum" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.ThreadDemo" />
+      <item itemvalue="Application.ThreadDemo (1)" />
+      <item itemvalue="TestNG.MergeSortTest.testMergeSort" />
       <item itemvalue="TestNG.ShellSortTest.testShellSort" />
       <item itemvalue="TestNG.ShellSortTest" />
-      <item itemvalue="TestNG.SumTest.testSum" />
-      <item itemvalue="TestNG.SumTest" />
-      <item itemvalue="TestNG.MaxTest.testMaxFor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MaxTest.testMaxFor" />
-        <item itemvalue="TestNG.SumTest" />
-        <item itemvalue="TestNG.SumTest.testSum" />
         <item itemvalue="TestNG.ShellSortTest" />
         <item itemvalue="TestNG.ShellSortTest.testShellSort" />
+        <item itemvalue="Application.ThreadDemo (1)" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="TestNG.MergeSortTest.testMergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -438,17 +445,31 @@
       <option name="project" value="LOCAL" />
       <updated>1586354600960</updated>
     </task>
-    <task id="LOCAL-00002" summary="[add]学习内容">
-      <created>1586664885060</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1586664885060</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="InsertionSortTest_testInsertionSort - 2020.04.08 at 10h 35m 44s.xml">
+      <configuration name="InsertionSortTest.testInsertionSort" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InsertionSortTest_testInsertionSort - 2020.04.08 at 10h 37m 06s.xml">
+      <configuration name="InsertionSortTest.testInsertionSort" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InsertionSortTest_testInsertionSortStudent - 2020.04.08 at 11h 00m 30s.xml">
+      <configuration name="InsertionSortTest.testInsertionSortStudent" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QuickSortTest_testQuickSort - 2020.04.08 at 11h 27m 09s.xml">
+      <configuration name="QuickSortTest.testQuickSort" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="QuickSortTest_testQuickSortStudent - 2020.04.08 at 11h 40m 25s.xml">
+      <configuration name="QuickSortTest.testQuickSortStudent" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testDoOperationAdd - 2020.04.08 at 11h 44m 51s.xml">
+      <configuration name="CalculatorTest.testDoOperationAdd" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2020.04.08 at 11h 44m 58s.xml">
+      <configuration name="CalculatorTest" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="MergeSortTest_testMergeSort - 2020.04.08 at 15h 26m 08s.xml">
       <configuration name="MergeSortTest.testMergeSort" configurationId="TestNG" />
     </history-entry>
@@ -458,33 +479,13 @@
     <history-entry file="ShellSortTest_testShellSort - 2020.04.09 at 17h 38m 45s.xml">
       <configuration name="ShellSortTest.testShellSort" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ShellSortTest - 2020.04.12 at 12h 13m 58s.xml">
-      <configuration name="ShellSortTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SumTest_testSum - 2020.04.12 at 13h 27m 43s.xml">
-      <configuration name="SumTest.testSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SumTest_testSum - 2020.04.12 at 13h 28m 16s.xml">
-      <configuration name="SumTest.testSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SumTest_testSum - 2020.04.12 at 13h 28m 53s.xml">
-      <configuration name="SumTest.testSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SumTest - 2020.04.12 at 13h 35m 54s.xml">
-      <configuration name="SumTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SumTest - 2020.04.12 at 13h 36m 06s.xml">
-      <configuration name="SumTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MaxTest_testMaxFor - 2020.04.12 at 13h 43m 17s.xml">
-      <configuration name="MaxTest.testMaxFor" configurationId="TestNG" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44373000" />
+    <option name="totallyTimeSpent" value="41676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992785" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" sideWeight="0.5007215" side_tool="true" visible="true" weight="0.2811159" />
@@ -495,13 +496,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4532578" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45454547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -531,6 +532,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java8-new/src/main/java/com/java8/example/lambda/task/TaskAThreadThree.java" />
+    <entry file="file://$PROJECT_DIR$/java8-new/README.md" />
+    <entry file="file://$PROJECT_DIR$/java8-new/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/example.java" />
+    <entry file="file://$PROJECT_DIR$/java-algorithms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/ocp/ICourse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -838,6 +850,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/merge/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -856,58 +876,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-mybatis-plus/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/shell/ShellSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/SumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="345">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
