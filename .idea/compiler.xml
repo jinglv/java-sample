@@ -11,16 +11,14 @@
         <module name="java-mybatis-plus" />
         <module name="java-new" />
         <module name="java-principle" />
-        <module name="java8-new" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-algorithms" target="8" />
       <module name="java-design-pattern" target="8" />
-      <module name="java-mybatis-plus" target="1.5" />
+      <module name="java-mybatis-plus" target="8" />
       <module name="java-new" target="8" />
       <module name="java-principle" target="8" />
-      <module name="java8-new" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

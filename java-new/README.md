@@ -174,5 +174,13 @@ java.util.function提供了大量的函数式接口：
 - Stream概述（流处理）
     - 什么是流处理
     - Stream的作用
+- Stream聚合操作
+- API：intermediate中间/记录操作【无状态|有状态】
+- API：terminal终结/结束操作【非短路|短路】
 #### Stream操作原理
 #### 操作集合元素
+- 类型转换：其他类型（创建/获取）-> Stream对象
+- 类型转换：Stream对象 -> 其他类型
+- Stream常见API操作
+
+### Lambda表达式与代码重构

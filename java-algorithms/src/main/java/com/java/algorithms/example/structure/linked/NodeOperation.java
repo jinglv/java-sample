@@ -26,16 +26,12 @@ package com.java.algorithms.example.structure.linked;
 public class NodeOperation {
 
     /**
-     * 定义全局变量head，为头节点
-     */
-    private static Node head = new Node();
-
-    /**
      * 向链表添加数据
      *
-     * @param value 要添加的数据
+     * @param head  头指针
+     * @param value 需要添加的数据
      */
-    public static void addNode(int value) {
+    public static void addNode(Node head, int value) {
         //初始化要加⼊的节点
         Node newNode = new Node(value);
 
@@ -161,8 +157,8 @@ public class NodeOperation {
                 //将想要删除的节点存储一下
                 Node deleteNode = temp.next;
 
-                //想要删除的节点，又该节点的下一个节点来控制（不太明白）
-                deleteNode = deleteNode.next;
+                //想要删除的节点，又该节点的下一个节点来控制
+                temp.next = deleteNode.next;
 
                 //JVM会回收
                 deleteNode = null;
@@ -173,4 +169,5 @@ public class NodeOperation {
             temp = temp.next;
         }
     }
+
 }

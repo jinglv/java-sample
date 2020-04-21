@@ -945,128 +945,50 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="240" parent="13" name="t_course">
-      <Comment>课程表</Comment>
-    </table>
-    <table id="241" parent="13" name="t_source">
-      <Comment>成绩表</Comment>
-    </table>
-    <table id="242" parent="13" name="t_student">
+    <table id="240" parent="13" name="t_student">
       <Comment>学生表</Comment>
     </table>
-    <table id="243" parent="13" name="t_teacher">
-      <Comment>教师表</Comment>
-    </table>
-    <column id="244" parent="240" name="id">
+    <column id="241" parent="240" name="id">
       <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
+      <DataType>bigint(20)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="245" parent="240" name="Cid">
-      <Position>2</Position>
-      <Comment>课程ID</Comment>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="246" parent="240" name="Cname">
-      <Position>3</Position>
-      <Comment>课程名称</Comment>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="247" parent="240" name="Cteacher">
-      <Position>4</Position>
-      <Comment>授课教师</Comment>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <key id="248" parent="240" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <ColNames>id</ColNames>
-      <Primary>1</Primary>
-    </key>
-    <column id="249" parent="241" name="id">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-      <NotNull>1</NotNull>
-      <SequenceIdentity>1</SequenceIdentity>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="250" parent="241" name="Sid">
+    <column id="242" parent="240" name="Sid">
       <Position>2</Position>
       <Comment>学生ID</Comment>
       <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="251" parent="241" name="Cid">
-      <Position>3</Position>
-      <Comment>课程ID</Comment>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="252" parent="241" name="Csource">
-      <Position>4</Position>
-      <Comment>课程的成绩</Comment>
-      <DataType>int(11)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <key id="253" parent="241" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <ColNames>id</ColNames>
-      <Primary>1</Primary>
-    </key>
-    <column id="254" parent="242" name="id">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-      <NotNull>1</NotNull>
-      <SequenceIdentity>1</SequenceIdentity>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="255" parent="242" name="Sid">
-      <Position>2</Position>
-      <Comment>学生ID</Comment>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="256" parent="242" name="Sname">
+    <column id="243" parent="240" name="Sname">
       <Position>3</Position>
       <Comment>学生姓名</Comment>
       <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="257" parent="242" name="Sage">
+    <column id="244" parent="240" name="Sage">
       <Position>4</Position>
       <Comment>学生年龄</Comment>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="258" parent="242" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <ColNames>id</ColNames>
-      <Primary>1</Primary>
-    </key>
-    <column id="259" parent="243" name="id">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
+    <column id="245" parent="240" name="create_time">
+      <Position>5</Position>
+      <Comment>创建时间</Comment>
+      <DataType>datetime|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="246" parent="240" name="update_time">
+      <Position>6</Position>
+      <Comment>更新时间</Comment>
+      <DataType>timestamp|0s</DataType>
       <NotNull>1</NotNull>
-      <SequenceIdentity>1</SequenceIdentity>
+      <DefaultExpression>CURRENT_TIMESTAMP</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
+      <OnUpdate>CURRENT_TIMESTAMP</OnUpdate>
     </column>
-    <column id="260" parent="243" name="Tid">
-      <Position>2</Position>
-      <Comment>教师ID</Comment>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="261" parent="243" name="Tname">
-      <Position>3</Position>
-      <Comment>学生姓名</Comment>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <key id="262" parent="243" name="PRIMARY">
+    <key id="247" parent="240" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>

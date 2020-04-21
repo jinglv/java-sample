@@ -12,19 +12,28 @@ import java.util.stream.Collectors;
 public class Test {
     public static void main(String[] args) {
         //1.添加测试数据，存储多个账号列表
-        List<String> accounts = new ArrayList<String>();
-        accounts.add("tom");
-        accounts.add("jerry");
-        accounts.add("beita");
-        accounts.add("shuke");
-        accounts.add("damu");
+//        List<String> accounts = new ArrayList<String>();
+//        accounts.add("tom");
+//        accounts.add("jerry");
+//        accounts.add("beita");
+//        accounts.add("shuke");
+//        accounts.add("damu");
 
+        // java黑魔法，双括号初始化
+        List<String> accounts = new ArrayList<String>() {{
+            add("tom");
+            add("jerry");
+            add("beita");
+            add("shuke");
+            add("damu");
+        }};
         //1.1业务要求：账号长度大于等于5的是有效账号
         for (String account : accounts) {
             if (account.length() >= 5) {
                 System.out.println("有效账号：" + account);
             }
         }
+
         //1.2迭代方式进行操作
         Iterator<String> iterator = accounts.iterator();
         while (iterator.hasNext()) {
