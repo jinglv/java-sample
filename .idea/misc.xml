@@ -11,11 +11,11 @@
         <option value="$PROJECT_DIR$/java-algorithms/pom.xml" />
         <option value="$PROJECT_DIR$/java-principle/pom.xml" />
         <option value="$PROJECT_DIR$/java-new/pom.xml" />
-        <option value="$PROJECT_DIR$/java-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/java-leet-code/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_211" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
