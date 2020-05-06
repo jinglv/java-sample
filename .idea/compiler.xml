@@ -2,22 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-leet-code" />
+        <module name="java-mybatis" />
         <module name="java-new" />
-        <module name="java-design-pattern" />
-        <module name="java-principle" />
         <module name="java-algorithms" />
+        <module name="java-principle" />
+        <module name="java-design-pattern" />
+        <module name="java-leet-code" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-algorithms" target="8" />
       <module name="java-design-pattern" target="8" />
       <module name="java-leet-code" target="1.5" />
+      <module name="java-mybatis" target="1.5" />
       <module name="java-mybatis-plus" target="8" />
       <module name="java-new" target="8" />
       <module name="java-principle" target="8" />
