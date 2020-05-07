@@ -79,6 +79,32 @@ public class BubbleSort {
     }
 
     /**
+     * 冒泡排序的升级版
+     *
+     * @param arr 待排序的数组
+     * @return 返回已完成排序的数组
+     */
+    public static int[] bubbleSortPlus2(int[] arr) {
+        // 获取数组的长度
+        int l = arr.length;
+
+        // 定义一个布尔值hasChange，来记录每轮循环是否有发生交换
+        boolean hasChange = true;
+
+        for (int i = 0; i < l - 1 && hasChange; i++) {
+            // 每一轮循环则，将hasChange置为false
+            hasChange = false;
+            for (int j = 0; j < l - i - 1; j++) {
+                if (arr[j] > arr[j + 1]) {
+                    SortTestHelper.swap(arr, j, j + 1);
+                    hasChange = true;
+                }
+            }
+        }
+        return arr;
+    }
+
+    /**
      * 对象排序
      *
      * @param studentComparable 待排序的对象集合
