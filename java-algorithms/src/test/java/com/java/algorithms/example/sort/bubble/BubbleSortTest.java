@@ -42,6 +42,19 @@ public class BubbleSortTest {
     }
 
     @Test
+    public void testBubbleSortPlus2() {
+        System.out.println("-------------排序前的数组----------------");
+        System.out.println(Arrays.toString(arr));
+        System.out.println("-------------排序后的数组----------------");
+        assert arr != null;
+        long startTime = System.currentTimeMillis();
+        int[] beforeArr = BubbleSort.bubbleSortPlus2(arr);
+        System.out.println(Arrays.toString(beforeArr));
+        long endTime = System.currentTimeMillis();
+        System.out.println("排序花费的时间：" + (endTime - startTime));
+    }
+
+    @Test
     public void testBubbleSortObject() {
         Student[] arr = new Student[4];
         arr[0] = new Student("D", 90);
