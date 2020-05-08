@@ -19,9 +19,11 @@ public class RemoveDuplicates {
     public static int removeDuplicates(int[] nums) {
         int l = nums.length;
 
+        // 假设数组的第一个元素为当前元素进行比较
         int current = nums[0];
+        // 不重复元素初始长度
         int index = 1;
-        // 如果数组只有一个或0个元素则直接返回数组的长度
+        // 如果数组只有一个元素则直接返回数组的长度
         if (l <= 1) {
             return l;
         } else {

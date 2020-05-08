@@ -2,28 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="[add]leetcode练习题">
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/ReverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/TwoSumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/queue/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/queue/QueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/RomanToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/IsPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/RomanToIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RomanToInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsPalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RomanToIntTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-algorithms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/bubble/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/bubble/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/bubble/BubbleSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/META-INF/java-algorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/bubble/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/bubble/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/linked/NodeOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/linked/NodeOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/META-INF/java-algorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/bubble/BubbleSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/bubble/BubbleSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Max.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Max.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/Rotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Rotate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/thread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/thread/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +94,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.1/conf/settings.xml" />
+        <option name="localRepository" value="$USER_HOME$/mavenRepository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -119,10 +123,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/java-design-pattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -146,8 +150,21 @@
       <recent name="$PROJECT_DIR$/java-design-pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseTest">
-    <configuration name="ReverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RomanToIntTest.substringTest01">
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.queue.QueueTest" />
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.algorithms.example.structure.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-leet-code" />
       <extension name="coverage">
         <pattern>
@@ -156,13 +173,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.ReverseTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTest.reverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntTest.romanToInt3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-leet-code" />
       <extension name="coverage">
         <pattern>
@@ -171,14 +188,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.ReverseTest" />
-      <option name="METHOD_NAME" value="reverse" />
+      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
+      <option name="METHOD_NAME" value="romanToInt3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTest.reverseHaveZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntTest.romanToInt5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-leet-code" />
       <extension name="coverage">
         <pattern>
@@ -187,14 +204,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.ReverseTest" />
-      <option name="METHOD_NAME" value="reverseHaveZero" />
+      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
+      <option name="METHOD_NAME" value="romanToInt5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTest.reverseHaveZero1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntTest.substringTest01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-leet-code" />
       <extension name="coverage">
         <pattern>
@@ -203,43 +220,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.ReverseTest" />
-      <option name="METHOD_NAME" value="reverseHaveZero1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSumTest.testTwoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-leet-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.TwoSumTest" />
-      <option name="METHOD_NAME" value="testTwoSum" />
+      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
+      <option name="METHOD_NAME" value="substringTest01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TwoSumTest.testTwoSum" />
-      <item itemvalue="JUnit.ReverseTest.reverse" />
-      <item itemvalue="JUnit.ReverseTest.reverseHaveZero" />
-      <item itemvalue="JUnit.ReverseTest" />
-      <item itemvalue="JUnit.ReverseTest.reverseHaveZero1" />
+      <item itemvalue="Application.QueueTest" />
+      <item itemvalue="JUnit.RomanToIntTest" />
+      <item itemvalue="JUnit.RomanToIntTest.romanToInt3" />
+      <item itemvalue="JUnit.RomanToIntTest.romanToInt5" />
+      <item itemvalue="JUnit.RomanToIntTest.substringTest01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReverseTest" />
-        <item itemvalue="JUnit.ReverseTest.reverseHaveZero1" />
-        <item itemvalue="JUnit.ReverseTest.reverse" />
-        <item itemvalue="JUnit.ReverseTest.reverseHaveZero" />
-        <item itemvalue="JUnit.TwoSumTest.testTwoSum" />
+        <item itemvalue="JUnit.RomanToIntTest.substringTest01" />
+        <item itemvalue="JUnit.RomanToIntTest.romanToInt5" />
+        <item itemvalue="JUnit.RomanToIntTest.romanToInt3" />
+        <item itemvalue="JUnit.RomanToIntTest" />
+        <item itemvalue="Application.QueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +274,8 @@
       <workItem from="1587609589926" duration="4483000" />
       <workItem from="1587690429218" duration="4725000" />
       <workItem from="1588252455968" duration="1087000" />
-      <workItem from="1588501308613" duration="9931000" />
+      <workItem from="1588741853407" duration="7099000" />
+      <workItem from="1588822670795" duration="5393000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -332,62 +334,174 @@
     <option name="LAST_COMMIT_MESSAGE" value="[add]leetcode练习题" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="23" key="#Project_Structure" timestamp="1588501324274">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="144" y="93" key="DiffContextDialog" timestamp="1588903980694">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="208" y="23" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1588501324274" />
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1588597963529">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="144" y="93" key="DiffContextDialog/0.23.1440.813@0.23.1440.813" timestamp="1588903980694" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom" timestamp="1588838967663">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1588597963529" />
-    <state width="1398" height="202" key="GridCell.Tab.0.center" timestamp="1588597963527">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617674" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1588838967663" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center" timestamp="1588838967662">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1588597963527" />
-    <state width="1398" height="202" key="GridCell.Tab.0.left" timestamp="1588597963527">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617673" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1588838967662" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left" timestamp="1588838967661">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1588597963527" />
-    <state width="1398" height="202" key="GridCell.Tab.0.right" timestamp="1588597963528">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617673" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1588838967661" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right" timestamp="1588838967662">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1588597963528" />
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom" timestamp="1588593909014">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617674" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1588838967662" />
+    <state width="1398" height="108" key="GridCell.Tab.1.bottom" timestamp="1588838967060">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1588593909014" />
-    <state width="1398" height="251" key="GridCell.Tab.1.center" timestamp="1588593909014">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617676" />
+    <state width="1398" height="108" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1588838967060" />
+    <state width="1398" height="108" key="GridCell.Tab.1.center" timestamp="1588838967059">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1588593909014" />
-    <state width="1398" height="251" key="GridCell.Tab.1.left" timestamp="1588593909014">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.1.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617675" />
+    <state width="1398" height="108" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1588838967059" />
+    <state width="1398" height="108" key="GridCell.Tab.1.left" timestamp="1588838967059">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1588593909014" />
-    <state width="1398" height="251" key="GridCell.Tab.1.right" timestamp="1588593909014">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.1.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617674" />
+    <state width="1398" height="108" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1588838967059" />
+    <state width="1398" height="108" key="GridCell.Tab.1.right" timestamp="1588838967060">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1588593909014" />
-    <state x="138" y="32" key="SettingsEditor" timestamp="1588501355624">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="251" key="GridCell.Tab.1.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617676" />
+    <state width="1398" height="108" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1588838967060" />
+    <state x="131" y="8" key="SettingsEditor" timestamp="1588252864831">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="131" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588252864831" />
-    <state x="138" y="32" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1588501355624" />
-    <state x="436" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588573519976">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588838251257">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="436" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.821@0.23.1440.821" timestamp="1588573519976" />
+    <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588738048297" />
+    <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.813@0.23.1440.813" timestamp="1588838251257" />
+    <state x="425" y="225" key="git4idea.merge.GitPullDialog" timestamp="1588903929404">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="425" y="225" key="git4idea.merge.GitPullDialog/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588741776619" />
+    <state x="425" y="225" key="git4idea.merge.GitPullDialog/0.23.1440.813@0.23.1440.813" timestamp="1588903929404" />
     <state x="57" y="0" key="new project wizard" timestamp="1588253315676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588253315676" />
-    <state x="425" y="202" key="refactoring.ChangeSignatureDialog" timestamp="1588575000636">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1588822415175">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="425" y="202" key="refactoring.ChangeSignatureDialog/0.23.1440.821@0.23.1440.821" timestamp="1588575000636" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822415175" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-mybatis-plus</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_211</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -30,6 +30,7 @@ public class Rotate {
             return nums;
         } else {
             for (int i = 0; i < k + 1; i++) {
+                // 获取数组的最后一个元素
                 previous = nums[nums.length - 1];
                 for (int j = 0; j < nums.length; j++) {
                     // 循环，从数组头开始的元素与数组最后一个元素交换

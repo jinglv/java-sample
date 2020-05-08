@@ -21,10 +21,10 @@ public class Max {
         int max = arr[0];
 
         // 循环数组
-        for (int i = 0; i < l; i++) {
+        for (int value : arr) {
             // 判断数组元素的值大于max，则将arr[i] 赋值给max
-            if (arr[i] > max){
-                max = arr[i];
+            if (value > max) {
+                max = value;
             }
         }
         return max;

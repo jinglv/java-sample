@@ -37,5 +37,8 @@ public class Main {
 
         ILambda3 i32 = (x, y) -> x + y;
         System.out.println(i32.test(5, 6));
+
+        ILambda3 i33 = Integer::sum;
+        System.out.println(i33.test(7, 8));
     }
 }
