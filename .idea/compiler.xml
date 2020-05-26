@@ -11,6 +11,7 @@
         <module name="java-new" />
         <module name="java-algorithms" />
         <module name="java-principle" />
+        <module name="java-thread" />
         <module name="java-design-pattern" />
         <module name="java-leet-code" />
       </profile>
@@ -23,6 +24,7 @@
       <module name="java-mybatis-plus" target="8" />
       <module name="java-new" target="8" />
       <module name="java-principle" target="8" />
+      <module name="java-thread" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
