@@ -100,10 +100,38 @@
 - 缺乏更多好用的功能，比如线程中断、定时执行和延时多长时间后再定时执行等等。
 
 ### 创建线程池的方式
-- Executors
-    - newSingleThreadExecutor
-    - newFixedThreadPool
-    - newCachedThreadPool
-    - newScheduleThreadPool
-- ThreadPoolExecutor
-- ThreadPoolTaskExecutor
+- Executors:是一个创建各种线程池的工厂类，提供了大量的静态方法
+    - newSingleThreadExecutor:创建只有一个线程的线程池，即使用单线程串行执行所有任务，这种方式适合需要顺序执行任务的场景
+    - newFixedThreadPool:创建一个固定线程量的线程池，初始化时需要确定线程数量，执行任务时从线程池中拿，假如执行的任务数比较多，达到了线程初始化时数量，则会缓存到一个无界（即没有长度限制）的阻塞队列中
+    - newCachedThreadPool:创建一个可缓存线程空闲 60 秒的无界线程池，使用 SynchronousQueue 作为阻塞队列，这个队列比较特殊，只能存储一个元素。可缓存是如何理解呢，其实就是线程执行完任务后不立即销毁线程，而是在60秒内无需执行任务的情况下才销毁，适合处理大量耗时较短的任务场景
+    - newScheduleThreadPool:创建一个延时或者延时后定时执行的固定工作线程数量的线程池，定时执行类似于Timer，适合定时处理任务场景
+- ThreadPoolExecutor:使用Executors创建的线程池不够灵活，大多数参数都是默认的
+    - 比如newFixedThreadPool的核心线程数和最大线程数必须一致，而且没有线程空闲时间，如果使用不当还会导致OOM
+    - 比如 newSingleThreadExecutor 是使用无界的LinkedBlockingQueue阻塞队列。
+```
+public ThreadPoolExecutor(int corePoolSize,
+                          int maximumPoolSize,
+                          long keepAliveTime,
+                          TimeUnit unit,
+                          BlockingQueue<Runnable> workQueue,
+                          ThreadFactory threadFactory,
+                          RejectedExecutionHandler handler);
+```
+- corePoolSize：核心线程数，即线程池长期存活的线程数量。
+- maximumPoolSize：最大线程数，此参数可以有效的控制线程数，避免无限制的创建线程导致OOM，最大线程数是常驻+临时线程数量的总和。
+- keepAliveTime：线程的空闲时间，在超过核心线程数情况下，并且队列满了情况下，而被创建出来的线程的存活时间，线程在没有执行任务的情况下超过这个时间就会被销毁。
+- unit：空闲时间的单位，比如毫秒、秒、分钟和小时等等。
+- workQueue：等待队列，在超过核心线程数情况下，任务将放在等待队列，它是一个 BlockingQueue 阻塞队列。
+    - Java 自带的阻塞队列：
+        - ArrayBlockingQueue，有界阻塞队列，基于数组实现的队列；
+        - LinkedBlockingQueue，无界阻塞队列，基于链表实现的队列；
+        - SynchronousQueue，只能存储一个元素的阻塞队列，每个插入操作必须等到另一个线程调用移除操作，否则插入操作将一直处于阻塞状态。此队列是 Executors.newCachedThreadPool()的默认阻塞队列；
+        - PriorityBlockingQueue，具体优先级的无界阻塞队列。
+- threadFactory：线程工厂，用于创建一个线程，一般用于设置线程的名称。
+- handler：拒绝策略，当核心线满了、队列满了，超过了最大线程数情况下的处理策略。
+    - 拒绝策略列表：
+        - CallerRunsPolicy，常用，在调用者线程执行；
+        - AbortPolicy，默认，抛出 RejectedExecutionException 异常；
+        - DiscardPolicy，任务被丢弃，不做处理，会出现任务被吞的想象；
+        - DiscardOldestPolicy，丢弃队列里最旧(最先入队)的那个任务，再尝试执行当前任务（重复此过程）。
+- ThreadPoolTaskExecutor：这是 Spring Boot 2.x 整合线程池的方式，也是一种自定义线程池，配合注解 @Async 使用，也比较常用
