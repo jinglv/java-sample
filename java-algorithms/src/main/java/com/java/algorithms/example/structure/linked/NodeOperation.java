@@ -19,6 +19,8 @@ package com.java.algorithms.example.structure.linked;
  * <p>
  * - 删除节点
  * - 将上一个节点的指针域改变一下，就可以删除
+ * <p>
+ * - 对链表进行排序（冒泡排序）
  *
  * @author jingLv
  * @date 2020-04-13 11:14 AM
@@ -168,6 +170,106 @@ public class NodeOperation {
             currentPos++;
             temp = temp.next;
         }
+    }
+
+    /**
+     * 对链表进行排序
+     *
+     * @param head 头节点
+     */
+    public static void sortLinkList(Node head) {
+        Node currentNode;
+        Node nextNode;
+        for (currentNode = head.next; currentNode.next != null; currentNode = currentNode.next) {
+            for (nextNode = head.next; nextNode.next != null; nextNode = nextNode.next) {
+                if (nextNode.data > nextNode.next.data) {
+                    int temp = nextNode.data;
+                    nextNode.data = nextNode.next.data;
+                    nextNode.next.data = temp;
+                }
+            }
+        }
+    }
+
+    /**
+     * 找到链表中倒数第k个节点
+     * 找到链表中倒数第k个节点（设置两个指针p1，p2，让p2比p1块k个节点，同事向后遍历，当p2为空，则p1位倒数第k个节点）
+     *
+     * @param head 头节点
+     * @param k    倒数第k个节点
+     * @return 找到节点返回
+     */
+    public static Node findNode(Node head, int k) {
+        if (k < 1 || k > linkListLength(head)) {
+            return null;
+        }
+
+        Node p1 = head;
+        Node p2 = head;
+
+        // p2比p1快k个节点
+        for (int i = 0; i < k - 1; i++) {
+            p2 = p2.next;
+        }
+
+        // 只要p2为null，那么p1就是倒数第k个节点了
+        while (p2.next != null) {
+            p2 = p2.next;
+            p1 = p1.next;
+        }
+        return p1;
+    }
+
+    /**
+     * 查询单链表的中间节点
+     * 一个每次走一步，一个每次走两步，走两步的遍历完，然后走一步的指针，那就是中间节点
+     *
+     * @param head 头节点
+     * @return 返回找到的节点
+     */
+    public static Node searchMid(Node head) {
+        Node p1 = head;
+        Node p2 = head;
+
+        // 一个走一步，一个走两步，直到为null，走一步的达到的就是中间节点
+        while (p2 != null && p2.next != null && p2.next.next != null) {
+            p1 = p1.next;
+            p2 = p2.next.next;
+        }
+        return p1;
+    }
+
+    /**
+     * 通过递归从尾到头输出单链表
+     *
+     * @param head 头节点
+     */
+    public static void printListReversely(Node head) {
+        if (head != null) {
+            printListReversely(head.next);
+            if (head.data != null) {
+                System.out.println(head.data);
+            }
+        }
+    }
+
+    /**
+     * 实现链表的反转
+     *
+     * @param head 头节点
+     * @return 返回反转的节点
+     */
+    public static Node reverseList(Node head) {
+        Node pre = null;
+        Node cur = head;
+        while (cur != null) {
+            Node next = cur.next;
+            cur.next = pre;
+            pre = cur;
+
+            cur = next;
+        }
+        return pre;
     }
 
 }
