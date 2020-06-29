@@ -29,4 +29,30 @@ public class Max {
         }
         return max;
     }
+
+    /**
+     * 求数组总最大的数
+     * 递归实现
+     *
+     * @param arrays 指定的数组
+     * @param l      数组左边的下标
+     * @param r      数组右边的下标
+     * @return 返回数组中最大的值
+     */
+    public static int findMax(int[] arrays, int l, int r) {
+        // 如果该数组只有一个数，则最大值就是该数组第一个值了
+        if (l == r) {
+            return arrays[l];
+        } else {
+            int a = arrays[l];
+            // 找出整体最大值
+            int b = findMax(arrays, l + 1, r);
+
+            if (a > b) {
+                return a;
+            } else {
+                return b;
+            }
+        }
+    }
 }

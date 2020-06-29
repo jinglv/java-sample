@@ -2,8 +2,6 @@ package com.java.algorithms.example.structure.recursion;
 
 import org.testng.annotations.Test;
 
-import static org.testng.Assert.*;
-
 /**
  * @author jinglv
  * @date 2020-04-12 13:42
@@ -15,6 +13,12 @@ public class MaxTest {
     @Test
     public void testMaxFor() {
         int max  =  Max.maxFor(arr);
+        System.out.println(max);
+    }
+
+    @Test
+    public void testFindMax(){
+        int max = Max.findMax(arr, 0, arr.length-1);
         System.out.println(max);
     }
 }

@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="[add]leetcode练习题">
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/queue/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/queue/QueueTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/IsPalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/RomanToIntTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RomanToInt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsPalindromeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RomanToIntTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image/数据结构--栈.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image/数据结构--队列.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/BubbleSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Max.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Max.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/Rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Rotate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/ILambda3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/lambda/base/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/thread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/thread/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/MaxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/MaxTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-mybatis/MySQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-mybatis/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-mybatis/java-mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-mybatis/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,36 +30,6 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="db@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="db@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="db@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="school: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
@@ -74,9 +38,9 @@
       <list>
         <option value="Kotlin File" />
         <option value="Interface" />
-        <option value="TestNG Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
       </list>
     </option>
   </component>
@@ -109,138 +73,164 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;com.mysql.cj.jdbc.Driver" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_211" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-design-pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.example" />
-      <recent name="com.java.algorithms.example.shell" />
-      <recent name="com.java.algorithms.example.merge" />
-      <recent name="com.java.algorithms.example.quick" />
-      <recent name="com.java.algorithms.example.insertion" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.leetcode.editor.cn" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.java.algorithms.example.structure.recursion" />
+      <recent name="com.java.algorithms.example.structure.stack" />
+      <recent name="com.example" />
+      <recent name="com.java.algorithms.example.shell" />
+      <recent name="com.java.algorithms.example.merge" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image" />
+      <recent name="$PROJECT_DIR$/java-algorithms/image" />
       <recent name="$PROJECT_DIR$/java-mybatis-plus/sql" />
       <recent name="$PROJECT_DIR$/java-design-pattern" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thread.pool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
+      <recent name="$PROJECT_DIR$/java-thread/image" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.RomanToIntTest.substringTest01">
-    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.queue.QueueTest" />
+  <component name="RunManager" selected="TestNG.FibonacciTest.testFibonacci">
+    <configuration name="BubbleSortTest.testBubbleSort" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.algorithms.example.structure.queue.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.structure.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.recursion" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.recursion.BubbleSortTest" />
+      <option name="METHOD_NAME" value="testBubbleSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-leet-code" />
+    <configuration name="FibonacciTest.testFibonacci" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.structure.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.recursion" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.recursion.FibonacciTest" />
+      <option name="METHOD_NAME" value="testFibonacci" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToIntTest.romanToInt3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-leet-code" />
+    <configuration name="MaxTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.structure.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
-      <option name="METHOD_NAME" value="romanToInt3" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.recursion" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.recursion.MaxTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToIntTest.romanToInt5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-leet-code" />
+    <configuration name="MaxTest.testFindMax" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.structure.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
-      <option name="METHOD_NAME" value="romanToInt5" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.recursion" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.recursion.MaxTest" />
+      <option name="METHOD_NAME" value="testFindMax" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToIntTest.substringTest01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-leet-code" />
+    <configuration name="StackOperationTest.testPushStack" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.structure.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.RomanToIntTest" />
-      <option name="METHOD_NAME" value="substringTest01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.structure.stack" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.structure.stack.StackOperationTest" />
+      <option name="METHOD_NAME" value="testPushStack" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QueueTest" />
-      <item itemvalue="JUnit.RomanToIntTest" />
-      <item itemvalue="JUnit.RomanToIntTest.romanToInt3" />
-      <item itemvalue="JUnit.RomanToIntTest.romanToInt5" />
-      <item itemvalue="JUnit.RomanToIntTest.substringTest01" />
+      <item itemvalue="TestNG.StackOperationTest.testPushStack" />
+      <item itemvalue="TestNG.MaxTest" />
+      <item itemvalue="TestNG.MaxTest.testFindMax" />
+      <item itemvalue="TestNG.BubbleSortTest.testBubbleSort" />
+      <item itemvalue="TestNG.FibonacciTest.testFibonacci" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RomanToIntTest.substringTest01" />
-        <item itemvalue="JUnit.RomanToIntTest.romanToInt5" />
-        <item itemvalue="JUnit.RomanToIntTest.romanToInt3" />
-        <item itemvalue="JUnit.RomanToIntTest" />
-        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="TestNG.FibonacciTest.testFibonacci" />
+        <item itemvalue="TestNG.BubbleSortTest.testBubbleSort" />
+        <item itemvalue="TestNG.MaxTest.testFindMax" />
+        <item itemvalue="TestNG.MaxTest" />
+        <item itemvalue="TestNG.StackOperationTest.testPushStack" />
       </list>
     </recent_temporary>
   </component>
@@ -276,6 +266,23 @@
       <workItem from="1588252455968" duration="1087000" />
       <workItem from="1588741853407" duration="7099000" />
       <workItem from="1588822670795" duration="5393000" />
+      <workItem from="1588917636155" duration="1227000" />
+      <workItem from="1589176039692" duration="739000" />
+      <workItem from="1589176789328" duration="2725000" />
+      <workItem from="1589184644007" duration="1191000" />
+      <workItem from="1589870032139" duration="566000" />
+      <workItem from="1590461294371" duration="5884000" />
+      <workItem from="1590568922692" duration="1713000" />
+      <workItem from="1590980945868" duration="4981000" />
+      <workItem from="1590996856633" duration="15000" />
+      <workItem from="1591067560015" duration="644000" />
+      <workItem from="1591346229193" duration="18000" />
+      <workItem from="1591600379766" duration="5670000" />
+      <workItem from="1591612965612" duration="64000" />
+      <workItem from="1592808721637" duration="717000" />
+      <workItem from="1592809478255" duration="1544000" />
+      <workItem from="1592897662560" duration="2861000" />
+      <workItem from="1592979659737" duration="8656000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -319,72 +326,177 @@
       <option name="project" value="LOCAL" />
       <updated>1587690466558</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[add]leetcode练习题">
+      <created>1588904415786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588904415786</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[add]线程模块">
+      <created>1590477878037</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590477878037</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[add]线程池学习笔记">
+      <created>1591067638012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591067638012</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[add]链表学习笔记">
+      <created>1591613004581</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591613004581</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[add]栈学习笔记">
+      <created>1592900502861</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592900502861</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="[add]学习内容" />
     <MESSAGE value="[add]添加MyBatisPlus Maven工程模块" />
     <MESSAGE value="[add]Lambda学习" />
     <MESSAGE value="[add]学习笔记" />
     <MESSAGE value="[add]leetcode练习题" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]leetcode练习题" />
+    <MESSAGE value="[add]线程模块" />
+    <MESSAGE value="[add]线程池学习笔记" />
+    <MESSAGE value="[add]链表学习笔记" />
+    <MESSAGE value="[add]栈学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]栈学习笔记" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="354" y="115" key="#Inspections" timestamp="1590463141170">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="354" y="115" key="#Inspections/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590463141170" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1592899371189">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592899371189" />
+    <state x="533" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590984321679" />
+    <state x="533" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590463553444" />
+    <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592808800959">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.806@0.23.1440.806" timestamp="1592808800959" />
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1592900502378">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900502378" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591613004312" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1591067637698" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.813@0.23.1440.813" timestamp="1588904415480" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590477877756" />
     <state x="144" y="93" key="DiffContextDialog" timestamp="1588903980694">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="144" y="93" key="DiffContextDialog/0.23.1440.813@0.23.1440.813" timestamp="1588903980694" />
-    <state width="1398" height="133" key="GridCell.Tab.0.bottom" timestamp="1588838967663">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="287" key="GridCell.Tab.0.bottom" timestamp="1593398688678">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617674" />
-    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1588838967663" />
-    <state width="1398" height="133" key="GridCell.Tab.0.center" timestamp="1588838967662">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529042" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592986031101" />
+    <state width="1398" height="287" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593398688678" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591610913180" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039194" />
+    <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672323" />
+    <state width="1398" height="123" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1589184471931" />
+    <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590991192858" />
+    <state width="1398" height="287" key="GridCell.Tab.0.center" timestamp="1593398688677">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617673" />
-    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1588838967662" />
-    <state width="1398" height="133" key="GridCell.Tab.0.left" timestamp="1588838967661">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529041" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592986031100" />
+    <state width="1398" height="287" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1593398688677" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591610913179" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039191" />
+    <state width="1398" height="169" key="GridCell.Tab.0.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672322" />
+    <state width="1398" height="123" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1589184471931" />
+    <state width="1398" height="169" key="GridCell.Tab.0.center/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590991192857" />
+    <state width="1398" height="287" key="GridCell.Tab.0.left" timestamp="1593398688677">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617673" />
-    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1588838967661" />
-    <state width="1398" height="133" key="GridCell.Tab.0.right" timestamp="1588838967662">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529040" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592986031099" />
+    <state width="1398" height="287" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1593398688677" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591610913179" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039190" />
+    <state width="1398" height="169" key="GridCell.Tab.0.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672322" />
+    <state width="1398" height="123" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1589184471930" />
+    <state width="1398" height="169" key="GridCell.Tab.0.left/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590991192856" />
+    <state width="1398" height="287" key="GridCell.Tab.0.right" timestamp="1593398688678">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617674" />
-    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1588838967662" />
-    <state width="1398" height="108" key="GridCell.Tab.1.bottom" timestamp="1588838967060">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529041" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592986031100" />
+    <state width="1398" height="287" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1593398688678" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591610913179" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039192" />
+    <state width="1398" height="169" key="GridCell.Tab.0.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672323" />
+    <state width="1398" height="123" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1589184471931" />
+    <state width="1398" height="169" key="GridCell.Tab.0.right/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590991192857" />
+    <state width="1398" height="287" key="GridCell.Tab.1.bottom" timestamp="1593398688679">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617676" />
+    <state width="1398" height="287" key="GridCell.Tab.1.bottom/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035696" />
+    <state width="1398" height="287" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
+    <state width="1398" height="108" key="GridCell.Tab.1.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451193" />
     <state width="1398" height="108" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1588838967060" />
-    <state width="1398" height="108" key="GridCell.Tab.1.center" timestamp="1588838967059">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="287" key="GridCell.Tab.1.center" timestamp="1593398688679">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617675" />
+    <state width="1398" height="287" key="GridCell.Tab.1.center/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035695" />
+    <state width="1398" height="287" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
+    <state width="1398" height="108" key="GridCell.Tab.1.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451191" />
     <state width="1398" height="108" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1588838967059" />
-    <state width="1398" height="108" key="GridCell.Tab.1.left" timestamp="1588838967059">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="287" key="GridCell.Tab.1.left" timestamp="1593398688678">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617674" />
+    <state width="1398" height="287" key="GridCell.Tab.1.left/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035694" />
+    <state width="1398" height="287" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1593398688678" />
+    <state width="1398" height="108" key="GridCell.Tab.1.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451191" />
     <state width="1398" height="108" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1588838967059" />
-    <state width="1398" height="108" key="GridCell.Tab.1.right" timestamp="1588838967060">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state width="1398" height="287" key="GridCell.Tab.1.right" timestamp="1593398688679">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.1.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822617676" />
+    <state width="1398" height="287" key="GridCell.Tab.1.right/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035695" />
+    <state width="1398" height="287" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
+    <state width="1398" height="108" key="GridCell.Tab.1.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451192" />
     <state width="1398" height="108" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1588838967060" />
-    <state x="131" y="8" key="SettingsEditor" timestamp="1588252864831">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="134" y="113" key="SettingsEditor" timestamp="1589176942069">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="131" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588252864831" />
-    <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588838251257">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="134" y="113" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1589176942069" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1592900504941">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900504941" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591613006127" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1591067640520" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1588904417715" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590477879844" />
+    <state x="499" y="257" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592985992438">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="499" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592899682890" />
+    <state x="499" y="257" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985992438" />
     <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588738048297" />
     <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.813@0.23.1440.813" timestamp="1588838251257" />
     <state x="425" y="225" key="git4idea.merge.GitPullDialog" timestamp="1588903929404">
@@ -392,18 +504,16 @@
     </state>
     <state x="425" y="225" key="git4idea.merge.GitPullDialog/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588741776619" />
     <state x="425" y="225" key="git4idea.merge.GitPullDialog/0.23.1440.813@0.23.1440.813" timestamp="1588903929404" />
-    <state x="57" y="0" key="new project wizard" timestamp="1588253315676">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="60" y="23" key="new project wizard" timestamp="1590461896982">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588253315676" />
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1588822415175">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="60" y="23" key="new project wizard/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590461896982" />
+    <state x="385" y="159" width="670" height="671" key="search.everywhere.popup" timestamp="1592899249002">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
+    <state x="385" y="159" width="670" height="671" key="search.everywhere.popup/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592899249002" />
     <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822415175" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="masterDetails">
     <states>
