@@ -2,25 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image/数据结构--栈.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image/数据结构--队列.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/FibonacciTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c781d59dd083839f89961a17d73f093a43c716f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/193207649e404429d4ed9fec8056617e5f2fadf7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bf5baa28074acb0e596846b4cac06376228caeb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/665a43f260318ab4430ab35eaf3950925d85a989" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/675dad1c7c0f29e8d23c263360cec1c2772c5d64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f571aebe1fcf1280cefffc741a81fcf9ba3873a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c143d587f53321338f0cf4f4950820cb62ba172c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e160d8f66fec2aae7c225e5d1a003f23a94b2524" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-principle/src/main/java/com/java/principle/dip/Tom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-principle/src/test/java/com/java/principle/dip/TomTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/recursion/Max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/recursion/MaxTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Max.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Max.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/MaxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/MaxTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-mybatis/MySQL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-mybatis/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-mybatis/java-mybatis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-mybatis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-principle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-principle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-principle/java-principle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-principle/java-principle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-principle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-principle/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,24 +98,25 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.leetcode.editor.cn" />
-    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.java.principle.dip" />
       <recent name="com.java.algorithms.example.structure.recursion" />
       <recent name="com.java.algorithms.example.structure.stack" />
       <recent name="com.example" />
       <recent name="com.java.algorithms.example.shell" />
-      <recent name="com.java.algorithms.example.merge" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
+      <recent name="$PROJECT_DIR$/java-thread/image" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image" />
@@ -122,9 +127,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.thread.pool" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
-      <recent name="$PROJECT_DIR$/java-thread/image" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.leetcode.editor.cn" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.FibonacciTest.testFibonacci">
@@ -492,9 +496,10 @@
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1591067640520" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1588904417715" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590477879844" />
-    <state x="499" y="257" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592985992438">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="499" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593845941148">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="499" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1593845941148" />
     <state x="499" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592899682890" />
     <state x="499" y="257" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985992438" />
     <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588738048297" />
