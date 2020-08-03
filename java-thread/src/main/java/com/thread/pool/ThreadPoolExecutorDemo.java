@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class ThreadPoolExecutorDemo {
     public static class TaskA implements Runnable {
-        private String name;
+        private final String name;
 
         public TaskA(String name) {
             this.name = name;
