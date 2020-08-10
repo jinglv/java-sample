@@ -17,15 +17,15 @@ package com.example;
  * 输出: 21
  *
  * @author jinglv
- * @date 2020-05-04 2:12 下午
+ * @date 2020/05/04
  */
 public class Reverse {
 
     /**
      * 这种方式对负数处理失败
      *
-     * @param num
-     * @return
+     * @param num 需要反转的数
+     * @return 返回已反转的数
      */
     public static int reverseStr(int num) {
         // 将数字转为字符串

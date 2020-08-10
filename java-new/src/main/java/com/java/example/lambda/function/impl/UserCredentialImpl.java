@@ -4,7 +4,7 @@ import com.java.example.lambda.function.IUserCredential;
 
 /**
  * @author jingLv
- * @date 2020-04-09 2:00 PM
+ * @date 2020/04/09
  */
 public class UserCredentialImpl implements IUserCredential {
     @Override

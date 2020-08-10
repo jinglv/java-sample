@@ -7,7 +7,7 @@ import java.util.function.*;
  * Java类型系统内建函数式接口
  *
  * @author jingLv
- * @date 2020-04-13 1:41 PM
+ * @date 2020/04/13
  */
 public class Main {
     public static void main(String[] args) {

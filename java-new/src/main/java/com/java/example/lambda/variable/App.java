@@ -2,7 +2,7 @@ package com.java.example.lambda.variable;
 
 /**
  * @author jingLv
- * @date 2020-04-14 1:44 PM
+ * @date 2020/04/14
  */
 public class App {
     String s1 = "全局变量";

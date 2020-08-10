@@ -5,7 +5,7 @@ package com.java.example.lambda.function;
  * 函数式接口，是只包含一个接口方法的特殊接口
  *
  * @author jingLv
- * @date 2020-04-09 1:53 PM
+ * @date 2020/04/09
  */
 @FunctionalInterface
 public interface IUserCredential {
@@ -19,6 +19,7 @@ public interface IUserCredential {
 
     /**
      * 集成Object的方法
+     *
      * @return 返回
      */
     @Override

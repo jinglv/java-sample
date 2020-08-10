@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  * 线程安全问题
  *
  * @author jingLv
- * @date 2020-04-21 1:59 PM
+ * @date 2020/04/21
  */
 public class Test {
     public static void main(String[] args) {

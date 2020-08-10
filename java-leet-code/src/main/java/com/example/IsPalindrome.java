@@ -19,7 +19,7 @@ package com.example;
  * 解释: 从右向左读, 为 01 。因此它不是一个回文数。
  *
  * @author jingLv
- * @date 2020-05-06 11:47 上午
+ * @date 2020/05/06
  */
 public class IsPalindrome {
 

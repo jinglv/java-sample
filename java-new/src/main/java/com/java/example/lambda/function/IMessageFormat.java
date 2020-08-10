@@ -4,7 +4,7 @@ package com.java.example.lambda.function;
  * 消息传输格式化转换接口
  *
  * @author jingLv
- * @date 2020-04-09 1:56 PM
+ * @date 2020/04/09
  */
 @FunctionalInterface
 public interface IMessageFormat {
@@ -22,7 +22,7 @@ public interface IMessageFormat {
      * 静态处理方法，消息合法性验证方法
      *
      * @param msg 需要验证的消息
-     * @return  返回验证结果
+     * @return 返回验证结果
      */
     static boolean verifyMessage(String msg) {
         return msg != null;

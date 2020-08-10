@@ -19,7 +19,7 @@ package com.example;
  * 向右旋转 2 步: [3,99,-1,-100]
  *
  * @author jingLv
- * @date 2020-04-24 3:10 PM
+ * @date 2020/04/24
  */
 public class Rotate {
 

@@ -12,7 +12,7 @@ package com.example;
  * 输出: -1
  *
  * @author jingLv
- * @date 2020-04-23 11:29 AM
+ * @date 2020/04/03
  */
 public class StrStr {
     public static int strStr(String hayStack, String needle) {

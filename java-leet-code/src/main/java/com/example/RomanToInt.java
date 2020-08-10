@@ -48,7 +48,7 @@ import java.util.Map;
  * 解释: M = 1000, CM = 900, XC = 90, IV = 4.
  *
  * @author jingLv
- * @date 2020-05-07 3:38 下午
+ * @date 2020/05/07
  */
 public class RomanToInt {
 

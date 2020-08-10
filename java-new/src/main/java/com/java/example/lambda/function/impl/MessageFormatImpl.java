@@ -4,7 +4,7 @@ import com.java.example.lambda.function.IMessageFormat;
 
 /**
  * @author jingLv
- * @date 2020-04-09 2:10 PM
+ * @date 2020/04/09
  */
 public class MessageFormatImpl implements IMessageFormat {
     @Override

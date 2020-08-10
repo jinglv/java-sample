@@ -12,7 +12,7 @@ package com.example;
  * 函数应该返回新的长度 5, 并且原数组 nums 的前五个元素被修改为 0, 1, 2, 3, 4。
  *
  * @author jingLv
- * @date 2020-04-23 10:42 AM
+ * @date 2020/04/23
  */
 public class RemoveDuplicates {
 

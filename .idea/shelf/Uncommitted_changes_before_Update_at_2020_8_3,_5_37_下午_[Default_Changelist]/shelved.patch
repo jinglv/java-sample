@@ -1,0 +1,317 @@
+Index: java-principle/java-principle.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule=\"true\" type=\"JAVA_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\" LANGUAGE_LEVEL=\"JDK_1_8\">\n    <output url=\"file://$MODULE_DIR$/target/classes\" />\n    <output-test url=\"file://$MODULE_DIR$/target/test-classes\" />\n    <content url=\"file://$MODULE_DIR$\">\n      <sourceFolder url=\"file://$MODULE_DIR$/src/main/java\" isTestSource=\"false\" />\n      <sourceFolder url=\"file://$MODULE_DIR$/src/main/resources\" type=\"java-resource\" />\n      <sourceFolder url=\"file://$MODULE_DIR$/src/test/java\" isTestSource=\"true\" />\n      <excludeFolder url=\"file://$MODULE_DIR$/target\" />\n    </content>\n    <orderEntry type=\"inheritedJdk\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n    <orderEntry type=\"library\" name=\"Maven: org.projectlombok:lombok:1.18.12\" level=\"project\" />\n  </component>\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- java-principle/java-principle.iml	(revision 891ff05a8843abcf064c638f05d949d5e5715dcb)
++++ java-principle/java-principle.iml	(date 1596447118561)
+@@ -12,5 +12,13 @@
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.12" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter:5.7.0-M1" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.0-M1" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.0-M1" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-params:5.7.0-M1" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.0-M1" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.0-M1" level="project" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0_M1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0_M1.xml	(date 1596447118552)
++++ .idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0_M1.xml	(date 1596447118552)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.junit.platform:junit-platform-commons:1.7.0-M1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/platform/junit-platform-commons/1.7.0-M1/junit-platform-commons-1.7.0-M1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/platform/junit-platform-commons/1.7.0-M1/junit-platform-commons-1.7.0-M1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/platform/junit-platform-commons/1.7.0-M1/junit-platform-commons-1.7.0-M1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0_M1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0_M1.xml	(date 1596447118551)
++++ .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0_M1.xml	(date 1596447118551)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.0-M1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-engine/5.7.0-M1/junit-jupiter-engine-5.7.0-M1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-engine/5.7.0-M1/junit-jupiter-engine-5.7.0-M1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-engine/5.7.0-M1/junit-jupiter-engine-5.7.0-M1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0_M1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0_M1.xml	(date 1596447118550)
++++ .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0_M1.xml	(date 1596447118550)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.0-M1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-api/5.7.0-M1/junit-jupiter-api-5.7.0-M1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-api/5.7.0-M1/junit-jupiter-api-5.7.0-M1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-api/5.7.0-M1/junit-jupiter-api-5.7.0-M1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: java-principle/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\"\n         xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\n    <modelVersion>4.0.0</modelVersion>\n\n    <groupId>com.java.principle</groupId>\n    <artifactId>java-principle</artifactId>\n    <version>1.0-SNAPSHOT</version>\n\n    <dependencies>\n        <dependency>\n            <groupId>org.projectlombok</groupId>\n            <artifactId>lombok</artifactId>\n            <version>1.18.12</version>\n        </dependency>\n    </dependencies>\n\n    <build>\n        <plugins>\n            <plugin>\n                <groupId>org.apache.maven.plugins</groupId>\n                <artifactId>maven-compiler-plugin</artifactId>\n                <configuration>\n                    <source>8</source>\n                    <target>8</target>\n                </configuration>\n            </plugin>\n        </plugins>\n    </build>\n\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- java-principle/pom.xml	(revision 891ff05a8843abcf064c638f05d949d5e5715dcb)
++++ java-principle/pom.xml	(date 1596447118562)
+@@ -14,6 +14,12 @@
+             <artifactId>lombok</artifactId>
+             <version>1.18.12</version>
+         </dependency>
++        <dependency>
++            <groupId>org.junit.jupiter</groupId>
++            <artifactId>junit-jupiter</artifactId>
++            <version>RELEASE</version>
++            <scope>test</scope>
++        </dependency>
+     </dependencies>
+ 
+     <build>
+Index: .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0_M1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0_M1.xml	(date 1596447118551)
++++ .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0_M1.xml	(date 1596447118551)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.7.0-M1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-params/5.7.0-M1/junit-jupiter-params-5.7.0-M1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-params/5.7.0-M1/junit-jupiter-params-5.7.0-M1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter-params/5.7.0-M1/junit-jupiter-params-5.7.0-M1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml	(date 1596447118548)
++++ .idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml	(date 1596447118548)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0_M1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0_M1.xml	(date 1596447118553)
++++ .idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0_M1.xml	(date 1596447118553)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.junit.platform:junit-platform-engine:1.7.0-M1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/platform/junit-platform-engine/1.7.0-M1/junit-platform-engine-1.7.0-M1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/platform/junit-platform-engine/1.7.0-M1/junit-platform-engine-1.7.0-M1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/platform/junit-platform-engine/1.7.0-M1/junit-platform-engine-1.7.0-M1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml	(date 1596447118553)
++++ .idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml	(date 1596447118553)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0_M1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0_M1.xml	(date 1596447118549)
++++ .idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0_M1.xml	(date 1596447118549)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.junit.jupiter:junit-jupiter:5.7.0-M1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter/5.7.0-M1/junit-jupiter-5.7.0-M1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter/5.7.0-M1/junit-jupiter-5.7.0-M1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$USER_HOME$/mavenRepository/org/junit/jupiter/junit-jupiter/5.7.0-M1/junit-jupiter-5.7.0-M1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: java-principle/src/main/java/com/java/principle/dip/Tom.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- java-principle/src/main/java/com/java/principle/dip/Tom.java	(date 1596447118563)
++++ java-principle/src/main/java/com/java/principle/dip/Tom.java	(date 1596447118563)
+@@ -0,0 +1,15 @@
++package com.java.principle.dip;
++
++/**
++ * @author jinglv
++ * @date 2020-07-04 2:57 下午
++ */
++public class Tom {
++    public void studyJavaCourse(){
++        System.out.println("Tome在学习java的课程");
++    }
++
++    public void studyPythonCourse(){
++        System.out.println("Tome在学习python的课程");
++    }
++}
+Index: java-principle/src/test/java/com/java/principle/dip/TomTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- java-principle/src/test/java/com/java/principle/dip/TomTest.java	(date 1596447118564)
++++ java-principle/src/test/java/com/java/principle/dip/TomTest.java	(date 1596447118564)
+@@ -0,0 +1,23 @@
++package com.java.principle.dip;
++
++
++import org.junit.jupiter.api.Test;
++
++/**
++ * @author jinglv
++ * @date 2020-07-04 2:59 下午
++ */
++public class TomTest {
++
++    Tom tom = new Tom();
++
++    @Test
++    public void testStudyJavaCourse() {
++        tom.studyJavaCourse();
++    }
++
++    @Test
++    public void testStudyPythonCourse() {
++        tom.studyPythonCourse();
++    }
++}
+\ No newline at end of file
+Index: java-principle/README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># 软件架构设计原则\n## 开闭原则\n开闭原则（Open-Closed Principle，OPC）是指一个软件实体（如类、模块和函数）应用**对扩展开放。对修改关闭**。\n\n所谓的开闭，也正是对**扩展**和**修改**两个行为的一个原则。它强调的是**抽象构建框架，用实现扩展细节**，可以提高软件系统的可复用性及可维护性。\n\n开闭原则是面向对象设计中最基础的原则，它指导我们如何建立稳定，灵活的系统。例如版本更新时，尽可能的不修改源代码，但可以增加新功能。\n\n开闭原则的核心思想就是**面向抽象编程**，例子：com.java.principle.ocp\n## 依赖倒置原则\n## 单一职责原则\n## 接口隔离原则\n## 迪米特原则\n## 里式替换原则\n## 合成复用原则\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- java-principle/README.md	(revision 891ff05a8843abcf064c638f05d949d5e5715dcb)
++++ java-principle/README.md	(date 1596447118560)
+@@ -8,8 +8,30 @@
+ 
+ 开闭原则的核心思想就是**面向抽象编程**，例子：com.java.principle.ocp
+ ## 依赖倒置原则
++依赖倒置原则（Dependence Inversion Principle， DIP）是指设计代码机构时，高层模块不应该依赖底层模块，二者都应该依赖其**抽象**。
++
++抽象不应该依赖细节，细节应该依赖抽象。
++
++通过依赖倒置，可以减少类与类之间的耦合性，提高系统的稳定性，提高代码的可读性和可维护性，并且能够降低修改程序所造成的风险。
+ ## 单一职责原则
++单一职责（Simple Responsibility Pinciple， SRP）是指不要存在多于一个导致类变更的原因。
++
++假设我们有一个类负责两个职责，一旦发生需求改变，修改其中一个职责的逻辑代码，有可能导致另一个职责的功能发生故障。这样一来，这个类就存在两个导致类变更的原因。
++
++如何解决这个问题呢？将两个职责用两个类实现，进行解耦。后期需求变更维护互不影响。这样设计，可以降低类的复杂度，提高类的可读性，提高系统的可维护性，降低变更引起的风险。总体来说，就是一个类、接口或方法只负责一项职责。
++
+ ## 接口隔离原则
++接口隔离原则（interface Segregation Principle， ISP）是指用多个专门的接口，而不使用单一的总接口，客户端不应该依赖它不需要的接口。这个原则指导我们在设计接口时应当注意以下几点：
++1. 一个类对另一个类的依赖应该建立在最小的接口之上
++2. 建立单一接口，不要建立庞大臃肿的接口
++3. 尽量细化接口，接口中的方法尽量少（不是越少越好，一定要适度）
++
++接口隔离原则符合我们常说的高内聚，低耦合的设计思想，可以使类具有很好的可读性、可扩展性和可维护性。我们在设计接口的时候，要多花时间去思考，要考虑业务模型，包括对以后有可能发生变更的地方还要做一些预判。所以，对于抽象、对于业务模型的理解非常重要的。
+ ## 迪米特原则
++迪米特原则（Law of Demeter， LoD）是指一个对象应该对其他对象保持最少的了解，又叫**最少知道原则**（Least Knowledge Principle，LKP），尽量降低类与类之间的耦合度。
++
++迪米特原则强调：只和朋友交流，不和陌生人说话。
++
++出现在成员变量、方法的输入、输出参数中的类都可以成为成员朋友类，而出现在方法体内部的类不属于朋友类。
+ ## 里式替换原则
+ ## 合成复用原则
