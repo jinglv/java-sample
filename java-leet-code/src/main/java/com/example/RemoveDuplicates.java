@@ -16,6 +16,12 @@ package com.example;
  */
 public class RemoveDuplicates {
 
+    /**
+     * 删除数组重复元素
+     *
+     * @param nums 待删除元素的数组
+     * @return 返回已删除元素的数组
+     */
     public static int removeDuplicates(int[] nums) {
         int l = nums.length;
 

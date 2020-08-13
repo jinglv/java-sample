@@ -1,7 +1,7 @@
 package com.java.algorithms.example.sort.insertion;
 
-import com.java.algorithms.example.sort.SortTestHelper;
-import com.java.algorithms.example.sort.Student;
+import com.java.algorithms.example.sort.common.SortTestHelper;
+import com.java.algorithms.example.sort.common.Student;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
@@ -27,7 +27,7 @@ public class InsertionSortTest {
     }
 
     @Test
-    public void testInsertionSortStudent(){
+    public void testInsertionSortStudent() {
         Student[] arr = new Student[4];
         arr[0] = new Student("D", 68);
         arr[1] = new Student("C", 18);

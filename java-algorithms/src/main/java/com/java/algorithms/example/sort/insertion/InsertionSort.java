@@ -1,6 +1,6 @@
 package com.java.algorithms.example.sort.insertion;
 
-import com.java.algorithms.example.sort.Student;
+import com.java.algorithms.example.sort.common.Student;
 
 /**
  * 插入排序

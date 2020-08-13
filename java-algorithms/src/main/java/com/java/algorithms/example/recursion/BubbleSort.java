@@ -1,4 +1,4 @@
-package com.java.algorithms.example.structure.recursion;
+package com.java.algorithms.example.recursion;
 
 /**
  * 冒泡排序递归写法
@@ -7,7 +7,7 @@ package com.java.algorithms.example.structure.recursion;
  * - 递归出口：当只有一个元素时，即不用比较了：L==R
  *
  * @author jingLv
- * @date 2020-06-24 3:39 下午
+ * @date 2020/06/24
  */
 public class BubbleSort {
 
@@ -16,7 +16,6 @@ public class BubbleSort {
 
         // 如果只有一个元素，啥也不用干
         if (l == r) {
-
         } else {
             for (int i = l; i < r; i++) {
                 if (arr[i] > arr[i + 1]) {

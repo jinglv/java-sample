@@ -1,7 +1,7 @@
 package com.java.algorithms.example.sort.quick;
 
-import com.java.algorithms.example.sort.SortTestHelper;
-import com.java.algorithms.example.sort.Student;
+import com.java.algorithms.example.sort.common.SortTestHelper;
+import com.java.algorithms.example.sort.common.Student;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
@@ -21,21 +21,21 @@ public class QuickSortTest {
         System.out.println("-------------排序后的数组----------------");
         assert arr != null;
         long startTime = System.currentTimeMillis();
-        int[] beforeArr = QuickSort.quickSort(arr, 0, arr.length-1);
+        int[] beforeArr = QuickSort.quickSort(arr, 0, arr.length - 1);
         long endTime = System.currentTimeMillis();
         System.out.println(Arrays.toString(beforeArr));
         System.out.println("排序花费的时间：" + (endTime - startTime));
     }
 
     @Test
-    public void testQuickSortStudent(){
+    public void testQuickSortStudent() {
         Student[] arr = new Student[4];
         arr[0] = new Student("D", 82);
         arr[1] = new Student("C", 60);
         arr[2] = new Student("B", 72);
         arr[3] = new Student("A", 58);
 
-        QuickSort.quickSortStudent(arr, 0, arr.length-1);
+        QuickSort.quickSortStudent(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
 }

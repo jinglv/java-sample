@@ -1,7 +1,7 @@
 package com.java.algorithms.example.sort.bubble;
 
-import com.java.algorithms.example.sort.SortTestHelper;
-import com.java.algorithms.example.sort.Student;
+import com.java.algorithms.example.sort.common.SortTestHelper;
+import com.java.algorithms.example.sort.common.Student;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;

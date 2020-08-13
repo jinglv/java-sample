@@ -1,10 +1,10 @@
-package com.java.algorithms.example.sort;
+package com.java.algorithms.example.sort.common;
 
 /**
  * 排序需要的辅助工具
  *
  * @author jinglv
- * @date 2020-04-06 16:16
+ * @date 2020/04/06
  */
 public class SortTestHelper {
 
@@ -45,8 +45,8 @@ public class SortTestHelper {
      * 对象数组，元素交换
      *
      * @param arr 数组
-     * @param i 需要交换的前一个下标
-     * @param j 需要交换的后一个下标
+     * @param i   需要交换的前一个下标
+     * @param j   需要交换的后一个下标
      */
     public static void swap(Object[] arr, int i, int j) {
         Object temp = arr[i];

@@ -1,6 +1,6 @@
 package com.java.algorithms.example.sort.shell;
 
-import com.java.algorithms.example.sort.SortTestHelper;
+import com.java.algorithms.example.sort.common.SortTestHelper;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;

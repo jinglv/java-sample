@@ -1,6 +1,6 @@
 package com.java.algorithms.example.sort.merge;
 
-import com.java.algorithms.example.sort.SortTestHelper;
+import com.java.algorithms.example.sort.common.SortTestHelper;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
@@ -20,7 +20,7 @@ public class MergeSortTest {
         System.out.println("-------------排序后的数组----------------");
         assert arr != null;
         long startTime = System.currentTimeMillis();
-        int[] beforeArr = MergeSort.mergeSort(arr, 0, arr.length-1);
+        int[] beforeArr = MergeSort.mergeSort(arr, 0, arr.length - 1);
         long endTime = System.currentTimeMillis();
         System.out.println(Arrays.toString(beforeArr));
         System.out.println("排序花费的时间：" + (endTime - startTime));

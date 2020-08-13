@@ -1,7 +1,7 @@
 package com.java.algorithms.example.sort.bubble;
 
-import com.java.algorithms.example.sort.SortTestHelper;
-import com.java.algorithms.example.sort.Student;
+import com.java.algorithms.example.sort.common.SortTestHelper;
+import com.java.algorithms.example.sort.common.Student;
 
 /**
  * 冒泡排序
@@ -13,7 +13,7 @@ import com.java.algorithms.example.sort.Student;
  * - i 不断增加，直到 i<n-1 （ n是数组元素的个数， n-1是数组已经最后⼀个元素） ，⼀趟下来，可以让数组元素中最⼤值排在数组的最后⾯
  *
  * @author jinglv
- * @date 2020-04-06 16:36
+ * @date 2020/04/06
  */
 public class BubbleSort {
     /**

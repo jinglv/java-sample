@@ -1,13 +1,13 @@
 package com.java.algorithms.example.sort.selection;
 
-import com.java.algorithms.example.sort.SortTestHelper;
-import com.java.algorithms.example.sort.Student;
+import com.java.algorithms.example.sort.common.SortTestHelper;
+import com.java.algorithms.example.sort.common.Student;
 
 /**
  * 选择排序
  * 选择排序(Selection sort)是⼀种简单直观的排序算法。
  * ⼯作原理是每⼀次从待排序的数据元素中选出最⼩(或最⼤)的⼀个元素，存放在序列的起始(末尾)位置，直到全部待排序的数据元素排完。
- *
+ * <p>
  * 规律：
  * - ⼀个数组是需要 n-1 趟排序的(因为直到剩下⼀个元素时，才不需要找最⼤值)
  * - 每交换1次，再次找最⼤值时就将范围缩⼩1

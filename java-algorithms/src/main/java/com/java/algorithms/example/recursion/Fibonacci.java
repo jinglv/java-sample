@@ -1,4 +1,4 @@
-package com.java.algorithms.example.structure.recursion;
+package com.java.algorithms.example.recursion;
 
 /**
  * 斐波那契数列

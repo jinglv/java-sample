@@ -1,13 +1,13 @@
-package com.java.algorithms.example.sort;
+package com.java.algorithms.example.sort.common;
 
 /**
  * Comparable是排序接口。若一个类实现了Comparable接口，就意味着该类支持排序。
  * 实现了Comparable接口的类的对象的列表或数组可以通过Collections.sort或Arrays.sort进行自动排序。
  *
  * @author jinglv
- * @date 2020-04-06 16:12
+ * @date 2020/04/06
  */
-public class Student implements Comparable<Student>{
+public class Student implements Comparable<Student> {
 
     private String name;
     private int score;
