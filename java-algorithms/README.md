@@ -14,7 +14,7 @@
     - 位运算Bitwise、布隆过滤器BloomFilter
     - LRU Cache
 
-![image](./image/数据结构.png)
+![image-20200814161745813](https://gitee.com/JeanLv/study_image/raw/master///image-20200814161745813.png)
 
 # 算法
 - if-else, switch -> branch
@@ -29,7 +29,7 @@
 - 贪心Greedy
 - 数学Math，几何Geometry
 
-![image](./image/算法脑图.png)
+![image-20200814161808885](https://gitee.com/JeanLv/study_image/raw/master///image-20200814161808885.png)
 
 # 复杂度分析
 ## 时间复杂度
