@@ -1,6 +1,6 @@
 package com.java.algorithms.example.structure.linked;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * @author jingLv
@@ -30,7 +30,7 @@ public class NodeOperationTest {
     /**
      * 链表中插入节点
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testInsertNode() {
         NodeOperation.insertNode(head, 2, 35);
         NodeOperation.traversal(head);
@@ -39,7 +39,7 @@ public class NodeOperationTest {
     /**
      * 获取链表的长度
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testLinkListLength() {
         System.out.println(NodeOperation.linkListLength(head));
     }
@@ -47,7 +47,7 @@ public class NodeOperationTest {
     /**
      * 删除链表中的节点
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testDeleteNode() {
         NodeOperation.deleteNode(head, 3);
         NodeOperation.traversal(head);
@@ -56,7 +56,7 @@ public class NodeOperationTest {
     /**
      * 对链表进行排序
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testSortLinded() {
         NodeOperation.sortLinkList(head);
         NodeOperation.traversal(head);
@@ -65,7 +65,7 @@ public class NodeOperationTest {
     /**
      * 找到链表中倒数第k个节点
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testFindNode() {
         Node p = NodeOperation.findNode(head, 2);
         assert p != null;
@@ -75,7 +75,7 @@ public class NodeOperationTest {
     /**
      * 查询单链表的中间节点
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testSearchMid() {
         Node p = NodeOperation.searchMid(head);
         System.out.println("中间节点：" + p.data);
@@ -84,7 +84,7 @@ public class NodeOperationTest {
     /**
      * 通过递归从尾到头输出单链表
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testPrintListReversely() {
         NodeOperation.printListReversely(head);
     }
@@ -92,7 +92,7 @@ public class NodeOperationTest {
     /**
      * 实现链表反转
      */
-    @Test(dependsOnMethods = {"testAddData"})
+    @Test
     public void testReverseList() {
         Node p = NodeOperation.reverseList(head);
         NodeOperation.traversal(head);

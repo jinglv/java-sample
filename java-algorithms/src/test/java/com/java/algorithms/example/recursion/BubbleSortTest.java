@@ -1,6 +1,6 @@
 package com.java.algorithms.example.recursion;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
@@ -14,7 +14,7 @@ public class BubbleSortTest {
 
     @Test
     public void testBubbleSort() {
-        BubbleSort.bubbleSort(arr, 0, arr.length-1);
+        BubbleSort.bubbleSort(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
 }

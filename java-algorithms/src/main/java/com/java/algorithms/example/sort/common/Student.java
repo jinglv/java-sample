@@ -9,8 +9,8 @@ package com.java.algorithms.example.sort.common;
  */
 public class Student implements Comparable<Student> {
 
-    private String name;
-    private int score;
+    private final String name;
+    private final int score;
 
     public Student(String name, int score) {
         this.name = name;
@@ -43,6 +43,6 @@ public class Student implements Comparable<Student> {
      */
     @Override
     public String toString() {
-        return "Student: " + this.name + " " + Integer.toString(this.score);
+        return "Student:" + this.name + "Score:" + this.score;
     }
 }

@@ -7,10 +7,10 @@ import java.util.List;
  * 被观察者（ 报社 ）
  *
  * @author jingLv
- * @date 2020-04-21 3:54 PM
+ * @date 2020/04/21
  */
 public class NewsOffice {
-    private List<Customer> customers = new ArrayList<>();
+    private final List<Customer> customers = new ArrayList<>();
 
     public void addCustomer(Customer customer) {
         this.customers.add(customer);

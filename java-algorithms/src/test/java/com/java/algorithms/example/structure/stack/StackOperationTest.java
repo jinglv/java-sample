@@ -1,8 +1,6 @@
 package com.java.algorithms.example.structure.stack;
 
-import org.testng.annotations.Test;
-
-import static org.testng.Assert.*;
+import org.junit.jupiter.api.Test;
 
 /**
  * @author jingLv

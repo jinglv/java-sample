@@ -4,7 +4,7 @@ package com.java.algorithms.example.structure.stack;
  * 栈--使用链表实现
  *
  * @author jingLv
- * @date 2020-06-23 3:58 下午
+ * @date 2020/06/23
  */
 public class StackNode {
     //数据域

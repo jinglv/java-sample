@@ -14,7 +14,7 @@ import com.java.algorithms.example.sort.common.Student;
  * - 查询当前趟数最⼤值实际上不⽤知道最⼤值是多少(上⾯我查出最⼤值，还要我⼿动数它的⻆标)，知道它的数组⻆标即可，交换也是根据⻆标来进⾏交换
  *
  * @author jingLv
- * @date 2020-04-07 11:02 AM
+ * @date 2020/04/07
  */
 public class SelectionSort {
     /**
@@ -26,10 +26,8 @@ public class SelectionSort {
     public static int[] selectionSort(int[] arr) {
         // 数组的长度
         int l = arr.length;
-
         // 记录当前趟数的最⼤值的⻆标
         int pos;
-
         //外层循环控制需要排序的趟数
         for (int i = 0; i < l - 1; i++) {
             //新的趟数、将⻆标重新赋值为0
@@ -40,7 +38,6 @@ public class SelectionSort {
                     pos = j;
                 }
             }
-
             SortTestHelper.swap(arr, pos, l - 1 - i);
         }
         return arr;

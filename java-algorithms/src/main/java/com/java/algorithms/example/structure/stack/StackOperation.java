@@ -2,7 +2,7 @@ package com.java.algorithms.example.structure.stack;
 
 /**
  * @author jingLv
- * @date 2020-06-23 4:05 下午
+ * @date 2020/06/23
  */
 public class StackOperation {
 

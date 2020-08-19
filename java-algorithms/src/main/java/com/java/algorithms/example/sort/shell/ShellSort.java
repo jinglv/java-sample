@@ -8,7 +8,7 @@ package com.java.algorithms.example.sort.shell;
  * 就是把数列进⾏分组(不停使⽤插⼊排序)，直⾄从宏观上看起来有序，最后插⼊排序起来就容易了(⽆须多次移位或交换)
  *
  * @author jingLv
- * @date 2020-04-09 3:43 PM
+ * @date 2020/04/09
  */
 public class ShellSort {
 

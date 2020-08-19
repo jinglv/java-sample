@@ -1,6 +1,6 @@
 package com.java.algorithms.example.structure.character;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * @author jingLv

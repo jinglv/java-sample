@@ -5,7 +5,7 @@ package com.java.design.pattern.sample.decorator;
  * 和被装饰器的对象实现同一个接口Person
  *
  * @author jingLv
- * @date 2020-04-13 7:04 PM
+ * @date 2020/04/13
  */
 public abstract class ClothesDecorator implements Person {
     //装饰器中要使用被装饰器的对象，构造方法传入

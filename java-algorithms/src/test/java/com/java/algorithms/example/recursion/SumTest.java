@@ -1,6 +1,6 @@
 package com.java.algorithms.example.recursion;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * @author jinglv

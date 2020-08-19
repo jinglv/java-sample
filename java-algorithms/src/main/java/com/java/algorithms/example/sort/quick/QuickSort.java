@@ -15,7 +15,7 @@ import com.java.algorithms.example.sort.common.Student;
  * 递归出⼝：如果数组只有⼀个元素时，那么就不⽤排序了
  *
  * @author jingLv
- * @date 2020-04-08 11:01 AM
+ * @date 2020/04/08
  */
 public class QuickSort {
 
@@ -40,12 +40,10 @@ public class QuickSort {
             while (pivot > arr[i]) {
                 i++;
             }
-
             //寻找比支点小的值
             while (pivot < arr[j]) {
                 j--;
             }
-
             //分别找到了⽐⽀点⼩的数(右边)、⽐⽀点⼤的数(左边)，它们进⾏交换
             if (i <= j) {
                 SortTestHelper.swap(arr, i, j);
@@ -53,17 +51,14 @@ public class QuickSort {
                 j--;
             }
         }
-
         //“左边”再做排序，直到左边剩下⼀个数(递归出⼝)
         if (left < j) {
             quickSort(arr, left, j);
         }
-
         //“右边”再做排序，直到右边剩下⼀个数(递归出⼝)
         if (i < right) {
             quickSort(arr, i, right);
         }
-
         return arr;
     }
 

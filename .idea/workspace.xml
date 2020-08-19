@@ -1,16 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
+    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="chore：调整文档内容">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/recursion/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/recursion/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/recursion/Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/recursion/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithms/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java中的O.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java中的O.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/java的o.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/image/数据结构.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/image/算法脑图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/java-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/java-algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/common/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/common/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/insertion/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/merge/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/merge/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/quick/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/selection/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/selection/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/shell/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/shell/ShellSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/Structure.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image/数据结构--栈.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image/数据结构--队列.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/NodeOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/NodeOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/stack/StackOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/BubbleSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/MaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/MaxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/recursion/SumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/character/ReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/character/ReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/linked/NodeOperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/linked/NodeOperationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/stack/StackOperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/stack/StackOperationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/META-INF/java-algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/bubble/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/bubble/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/common/SortTestHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/common/SortTestHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/common/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/common/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/insertion/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/insertion/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/merge/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/merge/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/quick/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/quick/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/selection/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/selection/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/shell/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/sort/shell/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/character/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/character/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/linked/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/linked/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/linked/NodeOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/linked/NodeOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/recursion/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/target/classes/com/java/algorithms/example/structure/stack/StackOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/bubble/BubbleSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/insertion/InsertionSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/merge/MergeSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/quick/QuickSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/selection/SelectionSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/sort/shell/ShellSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/character/ReverseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/linked/NodeOperationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/BubbleSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/FibonacciTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/MaxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/recursion/SumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithms/target/test-classes/com/java/algorithms/example/structure/stack/StackOperationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/ClothesDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/ClothesDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Hat.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Hat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Jacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Jacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Lily.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Lily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/decorator/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/CustomerA.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/CustomerA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/CustomerB.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/CustomerB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/NewsOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/observer/NewsOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/java/design/pattern/sample/strategy/OperationSub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/decorator/ClothesDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/decorator/Hat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/decorator/Jacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/decorator/Lily.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/decorator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/decorator/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/observer/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/observer/CustomerA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/observer/CustomerB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/observer/NewsOffice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/strategy/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/strategy/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/strategy/OperationAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/com/java/design/pattern/sample/strategy/OperationSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/test-classes/com/java/design/pattern/sample/observer/NewsOfficeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/test-classes/com/java/design/pattern/sample/strategy/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RomanToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Rotate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/StrStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P1TwoSum$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P1TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P2AddTwoNumbers$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P2AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/leetcode/editor/cn/P3LongestSubstringWithoutRepeatingCharacters$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/classes/com/leetcode/editor/cn/P3LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsAnagramTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsPalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RemoveDuplicatesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/ReverseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RomanToIntTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RotateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/TwoSumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/ILambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/ILambda2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/ILambda3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/base/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/function/IMessageFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/function/IUserCredential.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/function/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/function/impl/MessageFormatImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/function/impl/UserCredentialImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/method/IPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/method/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/method/PersonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/method/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/method/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/overload/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/overload/App$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/overload/App$Param1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/overload/App$Param2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/overload/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/performance/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/performance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test2$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test2$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test2$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/stream/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/thread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/thread/ThreadDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/thread/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/type/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/type/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/type/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/variable/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/lambda/variable/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/lambda/function/impl/MessageFormatImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/lambda/function/impl/UserCredentialImplTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/lambda/function/impl/UserCredentialImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-sample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForCallableAndFuture$MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForCallableAndFuture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForRunnable$MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForThread$MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForThreadPool$MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/create/ThreadForThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/join/JoinThread$ThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/join/JoinThread$ThreadB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/join/JoinThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/lock/ThreadLock$ThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/lock/ThreadLock$ThreadB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/lock/ThreadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewCachedThreadPoolDemo$ThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewCachedThreadPoolDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewFixedThreadPoolDemo$TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewFixedThreadPoolDemo$TaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewFixedThreadPoolDemo$TaskC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewFixedThreadPoolDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewScheduleThreadPoolDemo01$TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewScheduleThreadPoolDemo01$TaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewScheduleThreadPoolDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewScheduleThreadPoolDemo02$TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewScheduleThreadPoolDemo02$TaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewScheduleThreadPoolDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewSingleThreadExecutorDemo$TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewSingleThreadExecutorDemo$TaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewSingleThreadExecutorDemo$TaskC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/NewSingleThreadExecutorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/ThreadPoolExecutorDemo$TaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-thread/target/classes/com/thread/pool/ThreadPoolExecutorDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +257,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;com.mysql.cj.jdbc.Driver" />
@@ -75,15 +266,19 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_211" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.leetcode.editor.cn" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
     </key>
@@ -102,11 +297,8 @@
       <recent name="com.java.algorithms.example" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
-      <recent name="$PROJECT_DIR$/java-thread/image" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image" />
       <recent name="$PROJECT_DIR$/java-algorithms/image" />
       <recent name="$PROJECT_DIR$/java-mybatis-plus/sql" />
@@ -115,11 +307,12 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.thread.pool" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.leetcode.editor.cn" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
+      <recent name="$PROJECT_DIR$/java-thread/image" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IsAnagramTest.charArray02">
+  <component name="RunManager" selected="TestNG.BubbleSortTest.testBubbleSortObject">
     <configuration name="IsAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-leet-code" />
       <extension name="coverage">
@@ -183,36 +376,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsAnagramTest.testIsAnagramForSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-leet-code" />
+    <configuration name="BubbleSortTest.testBubbleSortObject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.java.algorithms.example.sort.bubble.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.IsAnagramTest" />
-      <option name="METHOD_NAME" value="testIsAnagramForSort" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.algorithms.example.sort.bubble" />
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.sort.bubble.BubbleSortTest" />
+      <option name="METHOD_NAME" value="testBubbleSortObject" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="JUnit.IsAnagramTest.testIsAnagramForHash" />
-      <item itemvalue="JUnit.IsAnagramTest.testIsAnagramForSort" />
       <item itemvalue="JUnit.IsAnagramTest" />
       <item itemvalue="JUnit.IsAnagramTest.charArray01" />
       <item itemvalue="JUnit.IsAnagramTest.charArray02" />
+      <item itemvalue="TestNG.BubbleSortTest.testBubbleSortObject" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BubbleSortTest.testBubbleSortObject" />
         <item itemvalue="JUnit.IsAnagramTest.charArray02" />
         <item itemvalue="JUnit.IsAnagramTest.charArray01" />
         <item itemvalue="JUnit.IsAnagramTest" />
         <item itemvalue="JUnit.IsAnagramTest.testIsAnagramForHash" />
-        <item itemvalue="JUnit.IsAnagramTest.testIsAnagramForSort" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +464,9 @@
       <workItem from="1597018986545" duration="97000" />
       <workItem from="1597198105129" duration="10603000" />
       <workItem from="1597300707330" duration="1193000" />
-      <workItem from="1597392705359" duration="690000" />
+      <workItem from="1597392705359" duration="1004000" />
+      <workItem from="1597634803144" duration="3762000" />
+      <workItem from="1597807811553" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -362,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597301883762</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="chore：调整文档内容">
+      <created>1597393444422</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597393444422</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +585,8 @@
     <MESSAGE value="[add]栈学习笔记" />
     <MESSAGE value="chore：调整接口格式" />
     <MESSAGE value="feat：增加算法笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：增加算法笔记" />
+    <MESSAGE value="chore：调整文档内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore：调整文档内容" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="115" key="#Inspections" timestamp="1590463141170">
@@ -410,21 +615,16 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="474" y="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300600520" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1597301883363">
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1597818061598">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900502378" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591613004312" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1591067637698" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.813@0.23.1440.813" timestamp="1588904415480" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590477877756" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597301883363" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597818061598" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019020704" />
-    <state x="144" y="93" key="DiffContextDialog" timestamp="1588903980694">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state x="144" y="93" key="DiffContextDialog/0.23.1440.813@0.23.1440.813" timestamp="1588903980694" />
-    <state width="1396" height="258" key="GridCell.Tab.0.bottom" timestamp="1597301902411">
+    <state width="1396" height="259" key="GridCell.Tab.0.bottom" timestamp="1597808152293">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529042" />
@@ -435,9 +635,9 @@
     <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672323" />
     <state width="1398" height="123" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1589184471931" />
     <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
-    <state width="1396" height="258" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597301902411" />
+    <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597808152293" />
     <state width="1396" height="258" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
-    <state width="1396" height="258" key="GridCell.Tab.0.center" timestamp="1597301902410">
+    <state width="1396" height="259" key="GridCell.Tab.0.center" timestamp="1597808152292">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.center/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529041" />
@@ -448,9 +648,9 @@
     <state width="1398" height="169" key="GridCell.Tab.0.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672322" />
     <state width="1398" height="123" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1589184471931" />
     <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
-    <state width="1396" height="258" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597301902410" />
+    <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597808152292" />
     <state width="1396" height="258" key="GridCell.Tab.0.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="258" key="GridCell.Tab.0.left" timestamp="1597301902410">
+    <state width="1396" height="259" key="GridCell.Tab.0.left" timestamp="1597808152291">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.left/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529040" />
@@ -461,9 +661,9 @@
     <state width="1398" height="169" key="GridCell.Tab.0.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672322" />
     <state width="1398" height="123" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1589184471930" />
     <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
-    <state width="1396" height="258" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597301902410" />
+    <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597808152291" />
     <state width="1396" height="258" key="GridCell.Tab.0.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="258" key="GridCell.Tab.0.right" timestamp="1597301902411">
+    <state width="1396" height="259" key="GridCell.Tab.0.right" timestamp="1597808152292">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.right/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529041" />
@@ -474,15 +674,13 @@
     <state width="1398" height="169" key="GridCell.Tab.0.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672323" />
     <state width="1398" height="123" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1589184471931" />
     <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
-    <state width="1396" height="258" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597301902411" />
+    <state width="1396" height="259" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597808152292" />
     <state width="1396" height="258" key="GridCell.Tab.0.right/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom" timestamp="1597300698904">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="287" key="GridCell.Tab.1.bottom/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035696" />
     <state width="1398" height="287" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
-    <state width="1398" height="108" key="GridCell.Tab.1.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451193" />
-    <state width="1398" height="108" key="GridCell.Tab.1.bottom/0.23.1440.813@0.23.1440.813" timestamp="1588838967060" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698904" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674205" />
     <state width="1396" height="288" key="GridCell.Tab.1.center" timestamp="1597300698903">
@@ -490,8 +688,6 @@
     </state>
     <state width="1398" height="287" key="GridCell.Tab.1.center/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035695" />
     <state width="1398" height="287" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
-    <state width="1398" height="108" key="GridCell.Tab.1.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451191" />
-    <state width="1398" height="108" key="GridCell.Tab.1.center/0.23.1440.813@0.23.1440.813" timestamp="1588838967059" />
     <state width="1396" height="288" key="GridCell.Tab.1.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674204" />
     <state width="1396" height="288" key="GridCell.Tab.1.left" timestamp="1597300698903">
@@ -499,8 +695,6 @@
     </state>
     <state width="1398" height="287" key="GridCell.Tab.1.left/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035694" />
     <state width="1398" height="287" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1593398688678" />
-    <state width="1398" height="108" key="GridCell.Tab.1.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451191" />
-    <state width="1398" height="108" key="GridCell.Tab.1.left/0.23.1440.813@0.23.1440.813" timestamp="1588838967059" />
     <state width="1396" height="288" key="GridCell.Tab.1.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674204" />
     <state width="1396" height="288" key="GridCell.Tab.1.right" timestamp="1597300698903">
@@ -508,8 +702,6 @@
     </state>
     <state width="1398" height="287" key="GridCell.Tab.1.right/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985035695" />
     <state width="1398" height="287" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
-    <state width="1398" height="108" key="GridCell.Tab.1.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588917451192" />
-    <state width="1398" height="108" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1588838967060" />
     <state width="1396" height="288" key="GridCell.Tab.1.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.right/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674205" />
     <state x="134" y="113" key="SettingsEditor" timestamp="1596618992003">
@@ -517,16 +709,15 @@
     </state>
     <state x="134" y="113" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1589176942069" />
     <state x="134" y="113" key="SettingsEditor/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596618992003" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1597301885309">
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1597393446854">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900504941" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591613006127" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1596447523998" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1591067640520" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1588904417715" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590477879844" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597301885309" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597393446854" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1597019022945" />
     <state x="499" y="261" width="467" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597218978219">
       <screen x="0" y="23" width="1440" height="820" />
@@ -534,14 +725,7 @@
     <state x="499" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1593845941148" />
     <state x="499" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592899682890" />
     <state x="499" y="257" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.808/1440.-102.1920.1057@0.23.1440.808" timestamp="1592985992438" />
-    <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588738048297" />
-    <state x="499" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.813@0.23.1440.813" timestamp="1588838251257" />
     <state x="499" y="261" width="467" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597218978219" />
-    <state x="425" y="225" key="git4idea.merge.GitPullDialog" timestamp="1588903929404">
-      <screen x="0" y="23" width="1440" height="813" />
-    </state>
-    <state x="425" y="225" key="git4idea.merge.GitPullDialog/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588741776619" />
-    <state x="425" y="225" key="git4idea.merge.GitPullDialog/0.23.1440.813@0.23.1440.813" timestamp="1588903929404" />
     <state x="60" y="23" key="new project wizard" timestamp="1590461896982">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
@@ -550,7 +734,6 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="385" y="159" width="670" height="671" key="search.everywhere.popup/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592899249002" />
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1588822415175" />
   </component>
   <component name="masterDetails">
     <states>

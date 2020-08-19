@@ -5,7 +5,7 @@ package com.java.design.pattern.sample.observer;
  * 抽象类
  *
  * @author jingLv
- * @date 2020-04-21 3:47 PM
+ * @date 2020/04/21
  */
 public abstract class Customer {
     public abstract void update();

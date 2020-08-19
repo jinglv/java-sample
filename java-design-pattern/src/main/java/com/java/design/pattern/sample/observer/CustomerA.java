@@ -2,7 +2,7 @@ package com.java.design.pattern.sample.observer;
 
 /**
  * @author jingLv
- * @date 2020-04-21 3:50 PM
+ * @date 2020/04/21
  */
 public class CustomerA extends Customer {
     @Override

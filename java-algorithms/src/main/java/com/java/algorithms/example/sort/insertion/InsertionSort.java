@@ -12,7 +12,7 @@ import com.java.algorithms.example.sort.common.Student;
  * - ⽤第三位和 已排序的数据 ⽐，实际上就是让第三位数跟两个数⽐较，只不过这两个数是已经排好序的⽽已。⽽正是因为它排好序的，我们可以使⽤⼀个循环就可以将我们⽐较的数据插⼊进去
  *
  * @author jingLv
- * @date 2020-04-07 5:19 PM
+ * @date 2020/04/07
  */
 public class InsertionSort {
     /**
@@ -24,20 +24,16 @@ public class InsertionSort {
     public static int[] insertionSort(int[] arr) {
         // 获取数组的长度
         int l = arr.length;
-
         int temp;
-
         for (int i = 1; i < l; i++) {
             // 设置当前值
             temp = arr[i];
-
             //获取前一位的下标
             int j = i - 1;
             //如果前⼀位(已排序的数据)⽐当前数据要⼤，那么就进⼊循环⽐较
             while (j >= 0 && arr[j] > temp) {
                 //当前位元素赋值当前位的后一位元素
                 arr[j + 1] = arr[j];
-
                 //不断往前，直到退出循环
                 j--;
             }

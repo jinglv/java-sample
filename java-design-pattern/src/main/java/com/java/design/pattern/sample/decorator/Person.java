@@ -2,7 +2,7 @@ package com.java.design.pattern.sample.decorator;
 
 /**
  * @author jingLv
- * @date 2020-04-13 6:59 PM
+ * @date 2020/04/13
  */
 public interface Person {
 

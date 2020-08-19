@@ -5,9 +5,9 @@ package com.java.design.pattern.sample.decorator;
  * 具体实现类
  *
  * @author jingLv
- * @date 2020-04-13 7:08 PM
+ * @date 2020/04/13
  */
-public class Hat extends ClothesDecorator{
+public class Hat extends ClothesDecorator {
 
     public Hat(Person person) {
         super(person);

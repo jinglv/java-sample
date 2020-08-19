@@ -21,7 +21,7 @@ package com.java.algorithms.example.sort.merge;
  * 步骤：遍历两个数组，⽐较它们的值。谁⽐较⼩，谁先放⼊⼤数组中，直到数组遍历完成
  *
  * @author jingLv
- * @date 2020-04-08 2:12 PM
+ * @date 2020/04/08
  */
 public class MergeSort {
 
@@ -40,13 +40,10 @@ public class MergeSort {
         } else {
             //取中间的数，进⾏拆分
             int middle = (left + right) / 2;
-
             //左边的数不断进⾏拆分
             mergeSort(arr, left, middle);
-
             //右边的数不断进行拆分
             mergeSort(arr, middle + 1, right);
-
             // 合并
             merge(arr, left, middle + 1, right);
         }
@@ -64,37 +61,31 @@ public class MergeSort {
     public static void merge(int[] arr, int left, int middle, int right) {
         // 拆分数组，定义左边的数组及大小
         int[] leftArr = new int[middle - left];
-
         //拆分数组，定义右边的数组及大小
         int[] rightArr = new int[right - middle + 1];
-
         //填充数据
         /*for (int i = left; i < middle; i++) {
             leftArr[i - left] = arr[i];
         }*/
         System.arraycopy(arr, left, leftArr, 0, middle - left);
-
         /*for (int i = middle; i <= right; i++) {
             rightArr[i - middle] = arr[i];
         }*/
         System.arraycopy(arr, middle, rightArr, 0, right + 1 - middle);
-
         int i = 0, j = 0;
         // 记录arr数组的第一个元素
         int k = left;
-
         //⽐较这两个数组的值，哪个⼩，就往数组上放
         while (i < leftArr.length && j < rightArr.length) {
             //谁⽐较⼩，谁将元素放⼊⼤数组中,移动指针，
             if (leftArr[i] < rightArr[j]) {
                 arr[k] = leftArr[i];
                 i++;
-                k++;
             } else {
                 arr[k] = rightArr[j];
                 j++;
-                k++;
             }
+            k++;
         }
 
         //如果左边的数组还没⽐较完，右边的数都已经完了，那么将左边的数抄到⼤数组中(剩下的都是⼤数字)

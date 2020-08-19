@@ -1,6 +1,6 @@
 package com.java.algorithms.example.recursion;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * @author jinglv
@@ -12,13 +12,13 @@ public class MaxTest {
 
     @Test
     public void testMaxFor() {
-        int max  =  Max.maxFor(arr);
+        int max = Max.maxFor(arr);
         System.out.println(max);
     }
 
     @Test
-    public void testFindMax(){
-        int max = Max.findMax(arr, 0, arr.length-1);
+    public void testFindMax() {
+        int max = Max.findMax(arr, 0, arr.length - 1);
         System.out.println(max);
     }
 }

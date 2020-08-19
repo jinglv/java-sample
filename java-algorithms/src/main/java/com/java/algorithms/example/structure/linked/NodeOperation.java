@@ -23,7 +23,7 @@ package com.java.algorithms.example.structure.linked;
  * - 对链表进行排序（冒泡排序）
  *
  * @author jingLv
- * @date 2020-04-13 11:14 AM
+ * @date 2020/04/13
  */
 public class NodeOperation {
 
