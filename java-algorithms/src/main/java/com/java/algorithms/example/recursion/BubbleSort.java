@@ -11,6 +11,13 @@ package com.java.algorithms.example.recursion;
  */
 public class BubbleSort {
 
+    /**
+     * 递归的冒泡排序
+     *
+     * @param arr 待排序的数组
+     * @param l   数组最左边的下标
+     * @param r   数组最右边的下标
+     */
     public static void bubbleSort(int[] arr, int l, int r) {
         int temp;
 

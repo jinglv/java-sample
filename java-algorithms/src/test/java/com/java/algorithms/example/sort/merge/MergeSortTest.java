@@ -1,7 +1,7 @@
 package com.java.algorithms.example.sort.merge;
 
 import com.java.algorithms.example.sort.common.SortTestHelper;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 

@@ -2,7 +2,7 @@ package com.java.algorithms.example.sort.insertion;
 
 import com.java.algorithms.example.sort.common.SortTestHelper;
 import com.java.algorithms.example.sort.common.Student;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
@@ -14,7 +14,7 @@ public class InsertionSortTest {
     private int[] arr = SortTestHelper.generateRandomArray(10, 1, 20);
 
     @Test
-    public void testInsertionSort() {
+    public void testInsertionSortForWhile() {
         System.out.println("-------------排序前的数组----------------");
         System.out.println(Arrays.toString(arr));
         System.out.println("-------------排序后的数组----------------");
@@ -25,6 +25,7 @@ public class InsertionSortTest {
         System.out.println(Arrays.toString(beforeArr));
         System.out.println("排序花费的时间：" + (endTime - startTime));
     }
+
 
     @Test
     public void testInsertionSortStudent() {

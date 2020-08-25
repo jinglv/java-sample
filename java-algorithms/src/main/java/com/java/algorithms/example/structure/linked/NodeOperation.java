@@ -173,25 +173,6 @@ public class NodeOperation {
     }
 
     /**
-     * 对链表进行排序
-     *
-     * @param head 头节点
-     */
-    public static void sortLinkList(Node head) {
-        Node currentNode;
-        Node nextNode;
-        for (currentNode = head.next; currentNode.next != null; currentNode = currentNode.next) {
-            for (nextNode = head.next; nextNode.next != null; nextNode = nextNode.next) {
-                if (nextNode.data > nextNode.next.data) {
-                    int temp = nextNode.data;
-                    nextNode.data = nextNode.next.data;
-                    nextNode.next.data = temp;
-                }
-            }
-        }
-    }
-
-    /**
      * 找到链表中倒数第k个节点
      * 找到链表中倒数第k个节点（设置两个指针p1，p2，让p2比p1块k个节点，同事向后遍历，当p2为空，则p1位倒数第k个节点）
      *

@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 public class NodeOperationTest {
 
     // 定义全局变量，链表的头指针
-    private static Node head = new Node();
+    private static final Node head = new Node();
 
     /**
      * 链表添加节点
@@ -50,15 +50,6 @@ public class NodeOperationTest {
     @Test
     public void testDeleteNode() {
         NodeOperation.deleteNode(head, 3);
-        NodeOperation.traversal(head);
-    }
-
-    /**
-     * 对链表进行排序
-     */
-    @Test
-    public void testSortLinded() {
-        NodeOperation.sortLinkList(head);
         NodeOperation.traversal(head);
     }
 

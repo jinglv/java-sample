@@ -7,7 +7,7 @@ package com.java.algorithms.example.recursion;
  * 递归出口：因为是前两项加起来才得出来第三项，则n=1和n=2就是递归出口
  *
  * @author jingLv
- * @date 2020-06-24 3:58 下午
+ * @date 2020/06/24
  */
 public class Fibonacci {
 

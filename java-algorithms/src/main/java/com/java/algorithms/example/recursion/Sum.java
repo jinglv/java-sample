@@ -4,7 +4,7 @@ package com.java.algorithms.example.recursion;
  * 求和
  *
  * @author jinglv
- * @date 2020-04-12 13:22
+ * @date 2020/04/12
  */
 public class Sum {
     /**

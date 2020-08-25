@@ -2,7 +2,7 @@ package com.java.algorithms.example.recursion;
 
 /**
  * @author jinglv
- * @date 2020-04-12 13:36
+ * @date 2020/04/12
  */
 public class Max {
     /**
