@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/BubbleSortLinked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/InsertionSortLinked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/linked/BubbleSortLinkedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Recursion.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Recursion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/recursion/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Sort.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/sort/Sort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/NodeOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/linked/NodeOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/bubble/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/bubble/BubbleSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/insertion/InsertionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/insertion/InsertionSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/merge/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/merge/MergeSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/quick/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/quick/QuickSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/selection/SelectionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/selection/SelectionSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/shell/ShellSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/sort/shell/ShellSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/linked/NodeOperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/src/test/java/com/java/algorithms/example/structure/linked/NodeOperationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +272,7 @@
       <workItem from="1598005055994" duration="599000" />
       <workItem from="1598008005921" duration="40000" />
       <workItem from="1598238222153" duration="5481000" />
-      <workItem from="1598253096165" duration="4168000" />
+      <workItem from="1598253096165" duration="5081000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -396,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597818156396</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="chore：调整文档内容">
+      <created>1598350427453</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1598350427453</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,16 +436,16 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="474" y="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300600520" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1597818155891">
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1598350427198">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900502378" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.809/1440.-102.1920.1057@0.23.1440.809" timestamp="1591613004312" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1591067637698" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590477877756" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597818155891" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350427198" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019020704" />
-    <state width="1396" height="259" key="GridCell.Tab.0.bottom" timestamp="1598321506361">
+    <state width="1396" height="259" key="GridCell.Tab.0.bottom" timestamp="1598854570142">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529042" />
@@ -465,9 +455,9 @@
     <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039194" />
     <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672323" />
     <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
-    <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598321506361" />
+    <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="258" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
-    <state width="1396" height="259" key="GridCell.Tab.0.center" timestamp="1598321506360">
+    <state width="1396" height="259" key="GridCell.Tab.0.center" timestamp="1598854570141">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.center/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529041" />
@@ -477,9 +467,9 @@
     <state width="1398" height="152" key="GridCell.Tab.0.center/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039191" />
     <state width="1398" height="169" key="GridCell.Tab.0.center/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672322" />
     <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
-    <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598321506360" />
+    <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="259" key="GridCell.Tab.0.left" timestamp="1598321506359">
+    <state width="1396" height="259" key="GridCell.Tab.0.left" timestamp="1598854570141">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.left/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529040" />
@@ -489,9 +479,9 @@
     <state width="1398" height="152" key="GridCell.Tab.0.left/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039190" />
     <state width="1398" height="169" key="GridCell.Tab.0.left/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672322" />
     <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
-    <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598321506359" />
+    <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="259" key="GridCell.Tab.0.right" timestamp="1598321506361">
+    <state width="1396" height="259" key="GridCell.Tab.0.right" timestamp="1598854570142">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1398" height="284" key="GridCell.Tab.0.right/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900529041" />
@@ -501,7 +491,7 @@
     <state width="1398" height="152" key="GridCell.Tab.0.right/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1593329039192" />
     <state width="1398" height="169" key="GridCell.Tab.0.right/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590982672323" />
     <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
-    <state width="1396" height="259" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598321506361" />
+    <state width="1396" height="259" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="258" key="GridCell.Tab.0.right/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom" timestamp="1597300698904">
       <screen x="0" y="23" width="1440" height="819" />
@@ -535,7 +525,7 @@
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="134" y="113" key="SettingsEditor/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596618992003" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1597818158308">
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1598350429789">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900504941" />
@@ -543,7 +533,7 @@
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1596447523998" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1591067640520" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1590477879844" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597818158308" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350429789" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1597019022945" />
     <state x="499" y="261" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598249693039">
       <screen x="0" y="23" width="1440" height="819" />
