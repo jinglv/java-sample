@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-principle/java-principle.iml" filepath="$PROJECT_DIR$/java-principle/java-principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-sample.iml" filepath="$PROJECT_DIR$/java-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tools/java-tools.iml" filepath="$PROJECT_DIR$/java-tools/java-tools.iml" />
     </modules>
   </component>
 </project>

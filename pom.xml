@@ -16,6 +16,7 @@
         <module>java-new</module>
         <module>java-principle</module>
         <module>java-thread</module>
+        <module>java-tools</module>
     </modules>
 
 </project>
