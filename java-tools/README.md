@@ -298,3 +298,99 @@ IntelliJ IDEA --> Preferences --> Plugins --> 搜索lombok 下载安装 安装�
 
 [hutool官方网站](https://www.hutool.cn)
 
+### 简介
+Hutool是一个小而全的Java工具类库，通过静态方法封装，降低相关API的学习成本，提高工作效率，使Java拥有函数式语言般的优雅，让Java语言也可以"甜甜的"。
+
+Hutool中的工具方法来自于每个用户的精雕细琢，它涵盖了Java开发底层代码中的方方面面，它既是大型项目开发中解决小问题的利器，也是小型项目中的有效担当。
+
+Hutool是项目中"util"包友好的代替，它节省了开发人员对项目中公用类和公共工具方法的封装时间，使开发专注于业务，同时可以最大限度的避免封装不完善带来的bug。
+
+1. 名字由来
+
+Hutool = Hu + tool，是原公司项目底层代码剥离后的开源库。"Hu"是公司名称的表示，tool表示工具，Hutool谐音"糊涂"，一方面简洁易懂，一方面寓意"难得糊涂"。
+
+2. Hutool如何改变我们的coding方式
+
+Hutool的目标是使用一个工具方法代替一段复杂代码，从而最大限度的避免"复制粘贴"代码的问题，彻底改变我们写代码的方式。
+
+
+
+以计算MD5为例
+
+- 【以前】打开搜索引擎 -> 搜索"Java MD5加密" -> 打开某篇博客 -> 复制粘贴 -> 改改好用
+- 【现在】引入Hutool -> SecureUtil.md5()
+
+
+
+### 包含组件
+
+一个Java基础工具类，对文件、流、加密解密、转码、正则、线程、XML等JDK方法进行封装，组成各种Util工具类，同时提供以下组件：
+
+| 模块               | 介绍                                                         |
+| ------------------ | ------------------------------------------------------------ |
+| hutool-aop         | JDK动态代理封装，提供非IOC下的切面支持                       |
+| hutool-bloomFilter | 布隆过滤，提供一些Hash算法的布隆过滤                         |
+| hutool-cache       | 简单缓存实现                                                 |
+| hutool-core        | 核心，包括Bean操作、日期、各种Util等                         |
+| hutool-cron        | 定时任务模块，提供类Crontab表达式的定时任务                  |
+| hutool-crypto      | 加密解密模块，提供对称、非对称和摘要算法封装                 |
+| hutool-db          | JDBC封装后的数据操作，基于ActiveRecord思想                   |
+| hutool-dfa         | 基于DFA模型的多关键字查找                                    |
+| hutool-extra       | 扩展模块，对第三方封装（模板引擎、邮件、Servlet、二维码、Emoji、FTP、分词等） |
+| hutool-http        | 基于HttpUrlConnection的Http客户端封装                        |
+| hutool-log         | 自动识别日志实现的日志门面                                   |
+| hutool-script      | 脚本执行封装，例如Javascript                                 |
+| hutool-setting     | 功能更强大的Setting配置文件和Properties封装                  |
+| hutool-system      | 系统参数调用封装（JVM信息等）                                |
+| hutool-json        | JSON实现                                                     |
+| hutool-captcha     | 图片验证码实现                                               |
+| hutool-poi         | 针对POI中Excel和Word的封装                                   |
+| hutool-socket      | 基于Java的NIO和AIO的Socket封装                               |
+
+可以根据需求对每个模块单独引入，也可以通过引入hutool-all方式引入所有模块。
+
+### 使用Hutool
+
+maven项目中，直接在项目中引入如下依赖即可：
+
+```xml
+<dependency>
+  <groupId>cn.hutool</groupId>
+  <artifactId>hutool-all</artifactId>
+  <version>5.3.8</version>
+</dependency>
+```
+
+### Convert类型转换
+
+[使用官方文档](https://www.hutool.cn/docs/#/core/类型转换/类型转换工具类-Convert)
+
+#### 痛点
+
+在Java开发中我们要面对各种各样的类型转换问题，尤其是从命令行获取的用户参数、从HttpRequest获取的Parameter等等，这些参数类型多种多样，我们怎么去转换他们呢？常用的办法是先整成String，然后调用XXX.parseXXX方法，还要承受转换失败的风险，不得不加一层try catch，这个小小的过程混迹在业务代码中会显得非常难看和臃肿。
+
+#### Convert类
+
+Convert类可以说是一个工具方法类，里面封装了针对Java常见类型的转换，用于简化类型转换。Convert类中大部分方法为toXXX，参数为Object，可以实现将任意可能的类型转换为指定类型。同时支持第二个参数defaultValue用于在转换失败时返回一个默认值。
+
+
+
+### IO流
+
+[使用官方文档](https://www.hutool.cn/docs/#/core/IO/概述)
+
+#### 介绍
+
+IO的操作包括读和写，应用场景包括网络操作和文件操作。IO操作在Java中是一个较为复杂的过程，我们在面对不同的场景时，要选择不同的InputStream和OutputStream实现来完成这些操作。而如果想读写字节流，还需要Reader和Writer的各种实现类。这些繁杂的实现类，一方面给我我们提供了更多的灵活性，另一方面也增加了复杂性。
+
+#### 封装
+
+io包的封装主要针对流、文件的读写封装，主要以工具类为主，提供常用功能的封装，这包括：
+
+- `IoUtil` 流操作工具类
+- `FileUtil` 文件读写和操作的工具类。
+- `FileTypeUtil` 文件类型判断工具类
+- `WatchMonitor` 目录、文件监听，封装了JDK1.7中的WatchService
+- `ClassPathResource`针对ClassPath中资源的访问封装
+- `FileReader` 封装文件读取
+- `FileWriter` 封装文件写入
