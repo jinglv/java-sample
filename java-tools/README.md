@@ -202,7 +202,7 @@ Never write another getter or equals method again, with one annotation your clas
 
 - 修饰范围在**类**上
 
-- 作用：用来给类中set方法开启**链式**调用，**chain属性**: 用来指定是否开启SET方法链式调用 true 开启 false  不开启
+- 作用：用来给类中set方法开启**链式**调用，**chain属性**: 用来指定是否开启SET方法链式调用 true开启 false不开启（默认）
 
   ```java
   package com.example.lombok;
@@ -273,7 +273,11 @@ Never write another getter or equals method again, with one annotation your clas
   }
   ```
 
+#### @EqualsAndHashCode
   
+- 修饰范围在**类**上
+  
+- 作用：用来生成equals(Object other)和hashCode()方法的实现，**callSuper属性**: 用来指定是否调用父类的equals和hashCode方法， true开启 false不开启（默认）
 
 
 
