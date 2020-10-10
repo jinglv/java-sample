@@ -4,44 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="chore：调整文档内容">
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+    <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-algorithms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithms/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-tools/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-tools/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,30 +126,29 @@
       <recent name="$PROJECT_DIR$/java-thread/image" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestIoUtil.testCopyFileForIOUtil">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.Main" />
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.algorithms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestConvert.testConvertArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-tools" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.hutool.convert.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.hutool.convert" />
-      <option name="MAIN_CLASS_NAME" value="com.example.hutool.convert.TestConvert" />
-      <option name="METHOD_NAME" value="testConvertArray" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -249,22 +218,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestConvert.testConvertArray" />
       <item itemvalue="JUnit.TestConvert.testConvertDate" />
       <item itemvalue="JUnit.TestConvert.testConvertCollection" />
       <item itemvalue="JUnit.TestIoUtil.testCopyFile" />
       <item itemvalue="JUnit.TestIoUtil.testCopyFileForIOUtil" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TestIoUtil.testCopyFileForIOUtil" />
         <item itemvalue="JUnit.TestIoUtil.testCopyFile" />
         <item itemvalue="JUnit.TestConvert.testConvertCollection" />
         <item itemvalue="JUnit.TestConvert.testConvertDate" />
-        <item itemvalue="JUnit.TestConvert.testConvertArray" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -328,6 +298,7 @@
       <workItem from="1601862079034" duration="2064000" />
       <workItem from="1601869328082" duration="2164000" />
       <workItem from="1601974619150" duration="3548000" />
+      <workItem from="1602311990277" duration="4872000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -448,11 +419,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601872432541</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat：新增lombok的注解@EqualsAndHashCode笔记 和 算法笔记">
+      <created>1602233180008</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602233180008</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -506,7 +484,8 @@
     <MESSAGE value="feat：增加算法笔记" />
     <MESSAGE value="chore：调整文档内容" />
     <MESSAGE value="feat:新增java lombok的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:新增java lombok的使用" />
+    <MESSAGE value="feat：新增lombok的注解@EqualsAndHashCode笔记 和 算法笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：新增lombok的注解@EqualsAndHashCode笔记 和 算法笔记" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="116" key="#Inspections" timestamp="1598321341590">
@@ -533,40 +512,41 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="474" y="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300600520" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1601872432283">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601872432283" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350427198" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019020704" />
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1601978156826">
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1602233179874">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593398688678" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601872432283" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233179874" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350427198" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019020704" />
+    <state width="1396" height="150" key="GridCell.Tab.0.bottom" timestamp="1602316885156">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="150" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885156" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
     <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="258" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
-    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1601978156826">
+    <state width="1396" height="150" key="GridCell.Tab.0.center" timestamp="1602316885155">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1593398688677" />
+    <state width="1396" height="150" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885155" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1601978156825">
+    <state width="1396" height="150" key="GridCell.Tab.0.left" timestamp="1602316885154">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1593398688677" />
+    <state width="1396" height="150" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885154" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
     <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1601978156826">
+    <state width="1396" height="150" key="GridCell.Tab.0.right" timestamp="1602316885156">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1593398688678" />
+    <state width="1396" height="150" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885156" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
     <state width="1396" height="259" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
@@ -574,25 +554,21 @@
     <state width="1396" height="288" key="GridCell.Tab.1.bottom" timestamp="1597300698904">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698904" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674205" />
     <state width="1396" height="288" key="GridCell.Tab.1.center" timestamp="1597300698903">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
     <state width="1396" height="288" key="GridCell.Tab.1.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674204" />
     <state width="1396" height="288" key="GridCell.Tab.1.left" timestamp="1597300698903">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1593398688678" />
     <state width="1396" height="288" key="GridCell.Tab.1.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674204" />
     <state width="1396" height="288" key="GridCell.Tab.1.right" timestamp="1597300698903">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1593398688679" />
     <state width="1396" height="288" key="GridCell.Tab.1.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.right/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674205" />
     <state x="254" y="92" key="MergeDialog" timestamp="1601872470815">
@@ -612,11 +588,12 @@
     </state>
     <state x="0" y="23" width="1440" height="811" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1601870502586" />
     <state x="134" y="113" key="SettingsEditor/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596618992003" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1601872434993">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1602233181625">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1596447523998" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601872434993" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233181625" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350429789" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1597019022945" />
     <state x="499" y="259" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601868653430">
