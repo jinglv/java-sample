@@ -9,24 +9,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IDEA辅助键和快捷键.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/entity/Sku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/enums/SkuCategoryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/predicate/SkuBooksCategoryPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/predicate/SkuPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/predicate/SkuTotalPricePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/cart/CartServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/059ae9eb61562a4dfd8891f28e27968c5c536899" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/07a4927b3c516df1a1b9e3917aa6e22a73e33491" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/0a8f408b5048cdc813b89a643db3893fa2d466a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/0dcd5344836eb8ece8c681c0a89a8411bed950f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/3b9dd77bba1b2e4bf2641b8407964e188c5aebcc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/b72b1cdc1aa587d00ea5a3b478bba666efc9b32c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5__12_34___Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/java-new.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/java-new.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +44,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
-        <option value="TestNG Test Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="TestNG Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -88,7 +90,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;com.mysql.cj.jdbc.Driver" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
@@ -105,18 +107,15 @@
     <property name="settings.editor.splitter.proportion" value="0.19596942" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.leetcode.editor.cn" />
-    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.java.example.cart" />
       <recent name="com.example.lombok" />
       <recent name="com.java.algorithms.example.structure.linked" />
       <recent name="com.example" />
       <recent name="com.java.algorithms.example.structure.character" />
-      <recent name="com.java.principle.dip" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -126,6 +125,10 @@
       <recent name="com.java.algorithms.example" />
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
+      <recent name="$PROJECT_DIR$/java-thread/image" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image" />
@@ -134,105 +137,118 @@
       <recent name="$PROJECT_DIR$/java-design-pattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.example.cart" />
       <recent name="com.thread.pool" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
-      <recent name="$PROJECT_DIR$/java-thread/image" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.leetcode.editor.cn" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.algorithms.example.Main" />
-      <module name="java-algorithms" />
+  <component name="RunManager" selected="TestNG.CartServiceTest.testFilterSkusLambda">
+    <configuration name="CartServiceTest.testFilterSkus" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.algorithms.example.*" />
+          <option name="PATTERN" value="com.java.example.cart.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.java.example.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="testFilterSkus" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestConvert.testConvertCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-tools" />
+    <configuration name="CartServiceTest.testFilterSkus01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.hutool.convert.*" />
+          <option name="PATTERN" value="com.java.example.cart.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.hutool.convert" />
-      <option name="MAIN_CLASS_NAME" value="com.example.hutool.convert.TestConvert" />
-      <option name="METHOD_NAME" value="testConvertCollection" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.example.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="testFilterSkus01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestConvert.testConvertDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-tools" />
+    <configuration name="CartServiceTest.testFilterSkusByCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.hutool.convert.*" />
+          <option name="PATTERN" value="com.java.example.cart.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.hutool.convert" />
-      <option name="MAIN_CLASS_NAME" value="com.example.hutool.convert.TestConvert" />
-      <option name="METHOD_NAME" value="testConvertDate" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.example.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="testFilterSkusByCategory" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIoUtil.testCopyFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-tools" />
+    <configuration name="CartServiceTest.testFilterSkusByPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.hutool.io.*" />
+          <option name="PATTERN" value="com.java.example.cart.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.hutool.io" />
-      <option name="MAIN_CLASS_NAME" value="com.example.hutool.io.TestIoUtil" />
-      <option name="METHOD_NAME" value="testCopyFile" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.example.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="testFilterSkusByPrice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIoUtil.testCopyFileForIOUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-tools" />
+    <configuration name="CartServiceTest.testFilterSkusLambda" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.hutool.io.*" />
+          <option name="PATTERN" value="com.java.example.cart.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.hutool.io" />
-      <option name="MAIN_CLASS_NAME" value="com.example.hutool.io.TestIoUtil" />
-      <option name="METHOD_NAME" value="testCopyFileForIOUtil" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.java.example.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="testFilterSkusLambda" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.TestConvert.testConvertDate" />
-      <item itemvalue="JUnit.TestConvert.testConvertCollection" />
-      <item itemvalue="JUnit.TestIoUtil.testCopyFile" />
-      <item itemvalue="JUnit.TestIoUtil.testCopyFileForIOUtil" />
+      <item itemvalue="TestNG.CartServiceTest.testFilterSkusByCategory" />
+      <item itemvalue="TestNG.CartServiceTest.testFilterSkusByPrice" />
+      <item itemvalue="TestNG.CartServiceTest.testFilterSkus" />
+      <item itemvalue="TestNG.CartServiceTest.testFilterSkus01" />
+      <item itemvalue="TestNG.CartServiceTest.testFilterSkusLambda" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.TestIoUtil.testCopyFileForIOUtil" />
-        <item itemvalue="JUnit.TestIoUtil.testCopyFile" />
-        <item itemvalue="JUnit.TestConvert.testConvertCollection" />
-        <item itemvalue="JUnit.TestConvert.testConvertDate" />
+        <item itemvalue="TestNG.CartServiceTest.testFilterSkusLambda" />
+        <item itemvalue="TestNG.CartServiceTest.testFilterSkus01" />
+        <item itemvalue="TestNG.CartServiceTest.testFilterSkus" />
+        <item itemvalue="TestNG.CartServiceTest.testFilterSkusByPrice" />
+        <item itemvalue="TestNG.CartServiceTest.testFilterSkusByCategory" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +317,9 @@
       <workItem from="1601869328082" duration="2164000" />
       <workItem from="1601974619150" duration="3548000" />
       <workItem from="1602311990277" duration="4872000" />
-      <workItem from="1602391207000" duration="199000" />
+      <workItem from="1602391207000" duration="576000" />
+      <workItem from="1603510046750" duration="7761000" />
+      <workItem from="1603708551901" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -429,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602233180008</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feat：新增idea的Mac版的辅助键和快捷键">
+      <created>1602391457601</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602391457601</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +513,8 @@
     <MESSAGE value="chore：调整文档内容" />
     <MESSAGE value="feat:新增java lombok的使用" />
     <MESSAGE value="feat：新增lombok的注解@EqualsAndHashCode笔记 和 算法笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：新增lombok的注解@EqualsAndHashCode笔记 和 算法笔记" />
+    <MESSAGE value="feat：新增idea的Mac版的辅助键和快捷键" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：新增idea的Mac版的辅助键和快捷键" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="116" key="#Inspections" timestamp="1598321341590">
@@ -504,6 +530,10 @@
     </state>
     <state x="441" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1602391303497" />
     <state x="441" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1601872474216" />
+    <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1603547429111">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1603547429111" />
     <state x="184" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597300596182">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
@@ -516,40 +546,45 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="474" y="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300600520" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1602233179874">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1602391457476">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1602391457476" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601872432283" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233179874" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350427198" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019020704" />
-    <state width="1396" height="150" key="GridCell.Tab.0.bottom" timestamp="1602316885156">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1603629623145">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
     <state width="1396" height="150" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885156" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
     <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="258" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
-    <state width="1396" height="150" key="GridCell.Tab.0.center" timestamp="1602316885155">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1603629623145">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
     <state width="1396" height="150" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885155" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="150" key="GridCell.Tab.0.left" timestamp="1602316885154">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1603629623144">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603629623144" />
     <state width="1396" height="150" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885154" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
     <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="150" key="GridCell.Tab.0.right" timestamp="1602316885156">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1603629623145">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
     <state width="1396" height="150" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885156" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
@@ -593,29 +628,29 @@
     <state x="0" y="23" width="1440" height="808" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1602391240391" />
     <state x="0" y="23" width="1440" height="811" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1601870502586" />
     <state x="134" y="113" key="SettingsEditor/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596618992003" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1602233181625">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1602391459200">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1602391459200" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1596447523998" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601872434993" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233181625" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350429789" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1597019022945" />
-    <state x="499" y="259" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601868653430">
+    <state x="499" y="259" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603530689468">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="499" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1593845941148" />
-    <state x="499" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.811@0.23.1440.811" timestamp="1601868653430" />
+    <state x="499" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.811@0.23.1440.811" timestamp="1603530689468" />
     <state x="499" y="261" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598249693039" />
     <state x="499" y="261" width="467" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597218978219" />
-    <state x="88" y="23" width="1264" height="811" key="new project wizard" timestamp="1601862119723">
+    <state x="88" y="23" width="1264" height="811" key="new project wizard" timestamp="1603629545450">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="88" y="23" width="1264" height="811" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1601862119723" />
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1601868923582">
+    <state x="88" y="23" width="1264" height="811" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1603629545450" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1603511055918">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1601868923582" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1603511055918" />
     <state x="385" y="161" width="670" height="682" key="search.everywhere.popup/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598239062241" />
   </component>
   <component name="masterDetails">
