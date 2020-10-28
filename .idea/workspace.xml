@@ -9,25 +9,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/entity/Sku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/enums/SkuCategoryEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/predicate/SkuBooksCategoryPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/predicate/SkuPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/predicate/SkuTotalPricePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/cart/service/CartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/cart/CartServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/059ae9eb61562a4dfd8891f28e27968c5c536899" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/07a4927b3c516df1a1b9e3917aa6e22a73e33491" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/0a8f408b5048cdc813b89a643db3893fa2d466a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/0dcd5344836eb8ece8c681c0a89a8411bed950f7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/3b9dd77bba1b2e4bf2641b8407964e188c5aebcc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/b72b1cdc1aa587d00ea5a3b478bba666efc9b32c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5,_12_34_下午_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_5__12_34___Default_Changelist_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsAnagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RomanToInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Rotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/StrStr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P1TwoSum$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P1TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P2AddTwoNumbers$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P2AddTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsAnagramTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsPalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RemoveDuplicatesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/ReverseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RomanToIntTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RotateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/TwoSumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/MethodReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/file/FileConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/file/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamVs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/resources/Interfaces.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/file/FileServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/Interfaces.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/MethodReferenceTest$PriceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/MethodReferenceTest$Sku.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/MethodReferenceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/enums/SkuCategoryEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/predicate/SkuBooksCategoryPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/predicate/SkuPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/predicate/SkuTotalPricePredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/service/CartService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/service/CartService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/file/FileConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/file/FileService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamVs$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamVs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/file/FileServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/java-new.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/java-new.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/CartService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/CartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/Sku.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/entity/Sku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuBooksCategoryPredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuCategoryEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuPredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuTotalPricePredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +101,8 @@
         <option value="JUnit4 Test Class" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
-        <option value="TestNG Test Class" />
         <option value="Interface" />
+        <option value="TestNG Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -96,7 +150,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_211" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-new/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -107,15 +161,18 @@
     <property name="settings.editor.splitter.proportion" value="0.19596942" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.leetcode.editor.cn" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.java.example.file" />
       <recent name="com.java.example.cart" />
       <recent name="com.example.lombok" />
       <recent name="com.java.algorithms.example.structure.linked" />
       <recent name="com.example" />
-      <recent name="com.java.algorithms.example.structure.character" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -125,37 +182,34 @@
       <recent name="com.java.algorithms.example" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
-      <recent name="$PROJECT_DIR$/java-thread/image" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-new/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure/image" />
       <recent name="$PROJECT_DIR$/java-algorithms/image" />
       <recent name="$PROJECT_DIR$/java-mybatis-plus/sql" />
-      <recent name="$PROJECT_DIR$/java-design-pattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.java.example.cart" />
       <recent name="com.thread.pool" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.leetcode.editor.cn" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
+      <recent name="$PROJECT_DIR$/java-thread/image" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CartServiceTest.testFilterSkusLambda">
-    <configuration name="CartServiceTest.testFilterSkus" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.StreamCollector.partition">
+    <configuration name="StreamCollector.group" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.cart.entity.*" />
+          <option name="PATTERN" value="com.java.example.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.cart" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
-      <option name="METHOD_NAME" value="testFilterSkus" />
+      <option name="PACKAGE_NAME" value="com.java.example.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamCollector" />
+      <option name="METHOD_NAME" value="group" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,17 +217,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CartServiceTest.testFilterSkus01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamCollector.partition" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.cart.entity.*" />
+          <option name="PATTERN" value="com.java.example.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.cart" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
-      <option name="METHOD_NAME" value="testFilterSkus01" />
+      <option name="PACKAGE_NAME" value="com.java.example.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamCollector" />
+      <option name="METHOD_NAME" value="partition" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -181,17 +235,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CartServiceTest.testFilterSkusByCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamCollector.toList" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.cart.entity.*" />
+          <option name="PATTERN" value="com.java.example.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.cart" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
-      <option name="METHOD_NAME" value="testFilterSkusByCategory" />
+      <option name="PACKAGE_NAME" value="com.java.example.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamCollector" />
+      <option name="METHOD_NAME" value="toList" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -199,17 +253,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CartServiceTest.testFilterSkusByPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamConstructor.streamFromFile" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.cart.entity.*" />
+          <option name="PATTERN" value="com.java.example.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.cart" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
-      <option name="METHOD_NAME" value="testFilterSkusByPrice" />
+      <option name="PACKAGE_NAME" value="com.java.example.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamConstructor" />
+      <option name="METHOD_NAME" value="streamFromFile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -217,17 +271,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CartServiceTest.testFilterSkusLambda" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamConstructor.streamFromFunction" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.cart.entity.*" />
+          <option name="PATTERN" value="com.java.example.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.cart" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.cart.CartServiceTest" />
-      <option name="METHOD_NAME" value="testFilterSkusLambda" />
+      <option name="PACKAGE_NAME" value="com.java.example.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamConstructor" />
+      <option name="METHOD_NAME" value="streamFromFunction" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -236,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.CartServiceTest.testFilterSkusByCategory" />
-      <item itemvalue="TestNG.CartServiceTest.testFilterSkusByPrice" />
-      <item itemvalue="TestNG.CartServiceTest.testFilterSkus" />
-      <item itemvalue="TestNG.CartServiceTest.testFilterSkus01" />
-      <item itemvalue="TestNG.CartServiceTest.testFilterSkusLambda" />
+      <item itemvalue="TestNG.StreamConstructor.streamFromFile" />
+      <item itemvalue="TestNG.StreamConstructor.streamFromFunction" />
+      <item itemvalue="TestNG.StreamCollector.toList" />
+      <item itemvalue="TestNG.StreamCollector.group" />
+      <item itemvalue="TestNG.StreamCollector.partition" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CartServiceTest.testFilterSkusLambda" />
-        <item itemvalue="TestNG.CartServiceTest.testFilterSkus01" />
-        <item itemvalue="TestNG.CartServiceTest.testFilterSkus" />
-        <item itemvalue="TestNG.CartServiceTest.testFilterSkusByPrice" />
-        <item itemvalue="TestNG.CartServiceTest.testFilterSkusByCategory" />
+        <item itemvalue="TestNG.StreamCollector.partition" />
+        <item itemvalue="TestNG.StreamCollector.group" />
+        <item itemvalue="TestNG.StreamCollector.toList" />
+        <item itemvalue="TestNG.StreamConstructor.streamFromFunction" />
+        <item itemvalue="TestNG.StreamConstructor.streamFromFile" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +374,9 @@
       <workItem from="1602391207000" duration="576000" />
       <workItem from="1603510046750" duration="7761000" />
       <workItem from="1603708551901" duration="841000" />
+      <workItem from="1603789406763" duration="3001000" />
+      <workItem from="1603861515021" duration="3630000" />
+      <workItem from="1603878112935" duration="3451000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -530,10 +587,11 @@
     </state>
     <state x="441" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1602391303497" />
     <state x="441" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1601872474216" />
-    <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1603547429111">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1603779204519">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1603547429111" />
+    <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603779204519" />
     <state x="184" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597300596182">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
@@ -554,38 +612,38 @@
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233179874" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350427198" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019020704" />
-    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1603629623145">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1396" height="232" key="GridCell.Tab.0.bottom" timestamp="1603881844864">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="150" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885156" />
+    <state width="1396" height="232" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844864" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
     <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="258" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
-    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1603629623145">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1396" height="232" key="GridCell.Tab.0.center" timestamp="1603881844863">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="150" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885155" />
+    <state width="1396" height="232" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844863" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1603629623144">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1396" height="232" key="GridCell.Tab.0.left" timestamp="1603881844863">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603629623144" />
-    <state width="1396" height="150" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885154" />
+    <state width="1396" height="232" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844863" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
     <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1603629623145">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1396" height="232" key="GridCell.Tab.0.right" timestamp="1603881844864">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="150" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602316885156" />
+    <state width="1396" height="232" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844864" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
     <state width="1396" height="259" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
@@ -637,20 +695,22 @@
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233181625" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350429789" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1597019022945" />
-    <state x="499" y="259" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603530689468">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="499" y="259" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603771628539">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="499" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.811@0.23.1440.811" timestamp="1603530689468" />
+    <state x="499" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603771628539" />
     <state x="499" y="261" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598249693039" />
     <state x="499" y="261" width="467" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597218978219" />
     <state x="88" y="23" width="1264" height="811" key="new project wizard" timestamp="1603629545450">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="88" y="23" width="1264" height="811" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1603629545450" />
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1603511055918">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="385" y="160" width="670" height="677" key="search.everywhere.popup" timestamp="1603779877185">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1603511055918" />
+    <state x="385" y="160" width="670" height="677" key="search.everywhere.popup/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603779877185" />
     <state x="385" y="161" width="670" height="682" key="search.everywhere.popup/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598239062241" />
   </component>
   <component name="masterDetails">
