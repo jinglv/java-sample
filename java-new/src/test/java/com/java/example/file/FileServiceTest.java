@@ -15,7 +15,7 @@ public class FileServiceTest {
     public void testFileHandle() throws IOException {
         FileService fileService = new FileService();
         // 通过lambda表达式，打印文件内容
-        fileService.fileHandle("/Users/apple/JavaProject/java-sample/java-new/src/main/resources/Interfaces.sql", fileContent -> System.out.println(fileContent));
+        fileService.oldFileHandle("/Users/apple/JavaProject/java-sample/java-new/src/main/resources/Interfaces.sql", fileContent -> System.out.println(fileContent));
     }
 
     /**

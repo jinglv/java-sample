@@ -9,79 +9,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsAnagram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/IsPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RemoveDuplicates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/RomanToInt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/Rotate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/StrStr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/TwoSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P1TwoSum$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P1TwoSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P2AddTwoNumbers$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/classes/com/example/leetcode/editor/cn/P2AddTwoNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsAnagramTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/IsPalindromeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RemoveDuplicatesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/ReverseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RomanToIntTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/RotateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/target/test-classes/com/example/TwoSumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/MethodReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/file/FileConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/file/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/StreamVs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/main/resources/Interfaces.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/file/FileServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/Interfaces.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/MethodReferenceTest$PriceComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/MethodReferenceTest$Sku.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/MethodReferenceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/enums/SkuCategoryEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/predicate/SkuBooksCategoryPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/predicate/SkuPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/predicate/SkuTotalPricePredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/service/CartService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/service/CartService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/file/FileConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/file/FileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamCollector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamOperator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamVs$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/StreamVs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/file/FileServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/guava/OptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/ReduceAndCollectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/cases/CaseFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/cases/CaseFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/cases/CaseOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/cases/CaseThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/stream/cases/CaseTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/resources/copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/main/resources/copyOne.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/resource/FileCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/resource/NewFileCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/guava/OptionalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/ReduceAndCollectTest$1Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/ReduceAndCollectTest$2Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/ReduceAndCollectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseFive$Trade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseFive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseFour$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseFour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseOne$ExamStudentScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseThree$Permission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseThree$Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseTwo$TagReqDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/stream/cases/CaseTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/copy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/classes/copyOne.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/resource/FileCopyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/resource/NewFileCopyTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/CartService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/CartService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/Sku.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/entity/Sku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuBooksCategoryPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuCategoryEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/cart/SkuTotalPricePredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/cart/CartServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/file/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/main/java/com/java/example/file/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/file/FileServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/src/test/java/com/java/example/file/FileServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/classes/com/java/example/file/FileService.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/classes/com/java/example/file/FileService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/file/FileServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-new/target/test-classes/com/java/example/file/FileServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,9 +123,6 @@
     <property name="settings.editor.splitter.proportion" value="0.19596942" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.leetcode.editor.cn" />
-    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
     </key>
@@ -182,6 +141,10 @@
       <recent name="com.java.algorithms.example" />
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
+      <recent name="$PROJECT_DIR$/java-thread/image" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java-new/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
@@ -193,23 +156,35 @@
       <recent name="com.java.example.cart" />
       <recent name="com.thread.pool" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
-      <recent name="$PROJECT_DIR$/java-thread/image" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.leetcode.editor.cn" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.StreamCollector.partition">
-    <configuration name="StreamCollector.group" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.OptionalTest">
+    <configuration name="OptionalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.example.guava.OptionalTest" />
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.stream.*" />
+          <option name="PATTERN" value="com.java.example.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamCollector" />
-      <option name="METHOD_NAME" value="group" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileCopyTest.copyFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.example.resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.example.resource" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.resource.FileCopyTest" />
+      <option name="METHOD_NAME" value="copyFile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -217,17 +192,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamCollector.partition" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FileServiceTest.testFileHandle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.stream.*" />
+          <option name="PATTERN" value="com.java.example.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamCollector" />
-      <option name="METHOD_NAME" value="partition" />
+      <option name="PACKAGE_NAME" value="com.java.example.file" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.file.FileServiceTest" />
+      <option name="METHOD_NAME" value="testFileHandle" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -235,17 +210,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamCollector.toList" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NewFileCopyTest.copyFile" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.stream.*" />
+          <option name="PATTERN" value="com.java.example.resource.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamCollector" />
-      <option name="METHOD_NAME" value="toList" />
+      <option name="PACKAGE_NAME" value="com.java.example.resource" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.resource.NewFileCopyTest" />
+      <option name="METHOD_NAME" value="copyFile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -253,35 +228,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamConstructor.streamFromFile" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OptionalTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java-new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.example.stream.*" />
+          <option name="PATTERN" value="com.java.example.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamConstructor" />
-      <option name="METHOD_NAME" value="streamFromFile" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamConstructor.streamFromFunction" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java-new" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.example.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java.example.stream" />
-      <option name="MAIN_CLASS_NAME" value="com.java.example.stream.StreamConstructor" />
-      <option name="METHOD_NAME" value="streamFromFunction" />
+      <option name="PACKAGE_NAME" value="com.java.example.guava" />
+      <option name="MAIN_CLASS_NAME" value="com.java.example.guava.OptionalTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -290,19 +247,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.StreamConstructor.streamFromFile" />
-      <item itemvalue="TestNG.StreamConstructor.streamFromFunction" />
-      <item itemvalue="TestNG.StreamCollector.toList" />
-      <item itemvalue="TestNG.StreamCollector.group" />
-      <item itemvalue="TestNG.StreamCollector.partition" />
+      <item itemvalue="TestNG.FileServiceTest.testFileHandle" />
+      <item itemvalue="TestNG.FileCopyTest.copyFile" />
+      <item itemvalue="TestNG.NewFileCopyTest.copyFile" />
+      <item itemvalue="TestNG.OptionalTest.test" />
+      <item itemvalue="Application.OptionalTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.StreamCollector.partition" />
-        <item itemvalue="TestNG.StreamCollector.group" />
-        <item itemvalue="TestNG.StreamCollector.toList" />
-        <item itemvalue="TestNG.StreamConstructor.streamFromFunction" />
-        <item itemvalue="TestNG.StreamConstructor.streamFromFile" />
+        <item itemvalue="Application.OptionalTest" />
+        <item itemvalue="TestNG.OptionalTest.test" />
+        <item itemvalue="TestNG.NewFileCopyTest.copyFile" />
+        <item itemvalue="TestNG.FileCopyTest.copyFile" />
+        <item itemvalue="TestNG.FileServiceTest.testFileHandle" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +333,8 @@
       <workItem from="1603708551901" duration="841000" />
       <workItem from="1603789406763" duration="3001000" />
       <workItem from="1603861515021" duration="3630000" />
-      <workItem from="1603878112935" duration="3451000" />
+      <workItem from="1603878112935" duration="9289000" />
+      <workItem from="1603958874653" duration="14064000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -511,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602391457601</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat：Stream的学习笔记">
+      <created>1603882010441</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603882010441</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,7 +536,8 @@
     <MESSAGE value="feat:新增java lombok的使用" />
     <MESSAGE value="feat：新增lombok的注解@EqualsAndHashCode笔记 和 算法笔记" />
     <MESSAGE value="feat：新增idea的Mac版的辅助键和快捷键" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：新增idea的Mac版的辅助键和快捷键" />
+    <MESSAGE value="feat：Stream的学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：Stream的学习笔记" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="116" key="#Inspections" timestamp="1598321341590">
@@ -604,68 +570,72 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="474" y="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300600520" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1602391457476">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1603882009932">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1602391457476" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601872432283" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233179874" />
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603882009932" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350427198" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019020704" />
-    <state width="1396" height="232" key="GridCell.Tab.0.bottom" timestamp="1603881844864">
+    <state width="1396" height="189" key="GridCell.Tab.0.bottom" timestamp="1604038464593">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="232" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844864" />
+    <state width="1396" height="189" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1604038464593" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
     <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="258" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
-    <state width="1396" height="232" key="GridCell.Tab.0.center" timestamp="1603881844863">
+    <state width="1396" height="189" key="GridCell.Tab.0.center" timestamp="1604038464592">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="232" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844863" />
+    <state width="1396" height="189" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1604038464592" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="232" key="GridCell.Tab.0.left" timestamp="1603881844863">
+    <state width="1396" height="189" key="GridCell.Tab.0.left" timestamp="1604038464591">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603629623144" />
-    <state width="1396" height="232" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844863" />
+    <state width="1396" height="189" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1604038464591" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
     <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316314" />
     <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
     <state width="1396" height="258" key="GridCell.Tab.0.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455875" />
-    <state width="1396" height="232" key="GridCell.Tab.0.right" timestamp="1603881844864">
+    <state width="1396" height="189" key="GridCell.Tab.0.right" timestamp="1604038464592">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="232" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603881844864" />
+    <state width="1396" height="189" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1604038464592" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596679316315" />
     <state width="1396" height="259" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="258" key="GridCell.Tab.0.right/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597221455876" />
-    <state width="1396" height="288" key="GridCell.Tab.1.bottom" timestamp="1597300698904">
-      <screen x="0" y="23" width="1440" height="819" />
+    <state width="1396" height="275" key="GridCell.Tab.1.bottom" timestamp="1603955286744">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
+    <state width="1396" height="275" key="GridCell.Tab.1.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603955286744" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698904" />
     <state width="1396" height="288" key="GridCell.Tab.1.bottom/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674205" />
-    <state width="1396" height="288" key="GridCell.Tab.1.center" timestamp="1597300698903">
-      <screen x="0" y="23" width="1440" height="819" />
+    <state width="1396" height="275" key="GridCell.Tab.1.center" timestamp="1603955286743">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
+    <state width="1396" height="275" key="GridCell.Tab.1.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603955286743" />
     <state width="1396" height="288" key="GridCell.Tab.1.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.center/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674204" />
-    <state width="1396" height="288" key="GridCell.Tab.1.left" timestamp="1597300698903">
-      <screen x="0" y="23" width="1440" height="819" />
+    <state width="1396" height="275" key="GridCell.Tab.1.left" timestamp="1603955286743">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
+    <state width="1396" height="275" key="GridCell.Tab.1.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603955286743" />
     <state width="1396" height="288" key="GridCell.Tab.1.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.left/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674204" />
-    <state width="1396" height="288" key="GridCell.Tab.1.right" timestamp="1597300698903">
-      <screen x="0" y="23" width="1440" height="819" />
+    <state width="1396" height="275" key="GridCell.Tab.1.right" timestamp="1603955286744">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
+    <state width="1396" height="275" key="GridCell.Tab.1.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603955286744" />
     <state width="1396" height="288" key="GridCell.Tab.1.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1597300698903" />
     <state width="1396" height="288" key="GridCell.Tab.1.right/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597219674205" />
     <state x="254" y="92" key="MergeDialog" timestamp="1601872470815">
@@ -676,6 +646,10 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="608" y="301" width="443" height="252" key="MultipleFileMergeDialog/0.23.1440.811@0.23.1440.811" timestamp="1601872470874" />
+    <state x="335" y="135" key="NewModule_or_Project.wizard" timestamp="1603968204080">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="335" y="135" key="NewModule_or_Project.wizard/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603968204080" />
     <state x="512" y="136" key="RollbackChangesDialog" timestamp="1601872493364">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
@@ -686,20 +660,20 @@
     <state x="0" y="23" width="1440" height="808" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1602391240391" />
     <state x="0" y="23" width="1440" height="811" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1601870502586" />
     <state x="134" y="113" key="SettingsEditor/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596618992003" />
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1602391459200">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1603882012244">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1602391459200" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.811/1440.-102.1920.1057@0.23.1440.811" timestamp="1596447523998" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601872434993" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1602233181625" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603882012244" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598350429789" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1597019022945" />
-    <state x="499" y="259" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603771628539">
+    <state x="499" y="259" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604028245480">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="499" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.811@0.23.1440.811" timestamp="1603530689468" />
-    <state x="499" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1603771628539" />
+    <state x="499" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1604028245480" />
     <state x="499" y="261" width="595" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598249693039" />
     <state x="499" y="261" width="467" height="440" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.820/1440.-102.1920.1057@0.23.1440.820" timestamp="1597218978219" />
     <state x="88" y="23" width="1264" height="811" key="new project wizard" timestamp="1603629545450">
