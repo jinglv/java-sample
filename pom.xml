@@ -17,6 +17,7 @@
         <module>java-principle</module>
         <module>java-thread</module>
         <module>java-tools</module>
+        <module>java-file-class</module>
     </modules>
 
 </project>
