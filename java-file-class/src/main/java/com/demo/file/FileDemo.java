@@ -9,11 +9,20 @@ import java.io.File;
 public class FileDemo {
 
     public static void main(String[] args) {
-        //File file = new File("F:\\a.txt");
-        File file = new File("/Users/apple/JavaProject/java-sample" + File.separator + "hello.txt");
-        //File parentFile = new File("F:\\");
-        //File file = new File(parentFile,"a.txt");
-        System.out.println("存在吗？" + file.exists());//exists判断该文件是否存在，存在返回true，否则返回false
-        System.out.println("目录分隔符：" + File.separator);//目录分隔符：\
+        File file = new File("java.txt");
+        // 文件删除
+        System.out.println(file.delete());
+
+        // 创建目录(单目录)
+        File file1 = new File("test");
+        System.out.println(file1.mkdir());
+        // 删除目录
+        System.out.println(file1.delete());
+
+        // 创建目录(多级目录)
+        File file2 = new File("mulTest/test.txt");
+        System.out.println(file2.mkdirs());
+        // 删除目录,只会删除目录下的文件
+        System.out.println(file2.delete());
     }
 }
