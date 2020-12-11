@@ -12,43 +12,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-file-class/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/imageCopy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/javaHello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/javaHelloCopy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/BufferedInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/BufferedOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/CopyAviDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/CopyImageDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/CopyTxtDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/FileInputStreamDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/FileOutputStreamDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/FileOutputStreamDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/FileOutputStreamDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/FileOutputStreamDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/file/RecursionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/BufferedInputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/BufferedOutputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyImageDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyTxtDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileInputStreamDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/RecursionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-thread/src/main/java/com/thread/SynchronizedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-thread/target/classes/com/thread/SynchronizedDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/ConversionStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/CopyJavaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/chars/ConversionStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/chars/CopyJavaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/chars/CopyJavaDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/chars/InputStreamReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/chars/OutputStreamWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/StringDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyAviDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ConversionStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CopyJavaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CopyJavaDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/InputStreamReaderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/OutputStreamWriterDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java中的O.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/bytes/WriteOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/file/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/file/FileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/WriteOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-file-class/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-file-class/imageCopy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-file-class/javaHello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-file-class/javaHelloCopy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-file-class/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,10 +107,6 @@
     <property name="settings.editor.splitter.proportion" value="0.19596942" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.java.example.validation" />
-      <recent name="com.example.leetcode.editor.cn" />
-    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.java.algorithms.example" />
     </key>
@@ -143,6 +125,11 @@
       <recent name="com.java.algorithms.example" />
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-file-class" />
+      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
+      <recent name="$PROJECT_DIR$/java-thread/image" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java-file-class" />
       <recent name="$PROJECT_DIR$/java-new/src/main/resources" />
@@ -151,22 +138,22 @@
       <recent name="$PROJECT_DIR$/java-algorithms/image" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.chars" />
       <recent name="com.java.example.cart" />
       <recent name="com.thread.pool" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-file-class" />
-      <recent name="$PROJECT_DIR$/java-algorithms/src/main/java/com/java/algorithms/example/structure" />
-      <recent name="$PROJECT_DIR$/java-thread/image" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.java.example.validation" />
+      <recent name="com.example.leetcode.editor.cn" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BufferedInputStreamDemo">
-    <configuration name="BufferedInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.bytes.BufferedInputStreamDemo" />
+  <component name="RunManager" selected="Application.CopyJavaDemo02">
+    <configuration name="ConversionStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.chars.ConversionStreamDemo" />
       <module name="java-file-class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.bytes.*" />
+          <option name="PATTERN" value="com.demo.chars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.bytes.BufferedStreamDemo" />
+    <configuration name="CopyJavaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.chars.CopyJavaDemo" />
       <module name="java-file-class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.bytes.*" />
+          <option name="PATTERN" value="com.demo.chars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyImageDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.bytes.CopyImageDemo" />
+    <configuration name="CopyJavaDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.chars.CopyJavaDemo02" />
       <module name="java-file-class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.bytes.*" />
+          <option name="PATTERN" value="com.demo.chars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,25 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.bytes.FileInputStreamDemo01" />
+    <configuration name="InputStreamReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.chars.InputStreamReaderDemo" />
       <module name="java-file-class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.bytes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.bytes.Main" />
-      <module name="java-file-class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.bytes.*" />
+          <option name="PATTERN" value="com.demo.chars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,6 +206,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.demo.bytes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputStreamWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.chars.OutputStreamWriterDemo" />
+      <module name="java-file-class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.chars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,19 +227,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FileInputStreamDemo01" />
-      <item itemvalue="Application.CopyImageDemo" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.BufferedStreamDemo" />
-      <item itemvalue="Application.BufferedInputStreamDemo" />
+      <item itemvalue="Application.ConversionStreamDemo" />
+      <item itemvalue="Application.OutputStreamWriterDemo" />
+      <item itemvalue="Application.InputStreamReaderDemo" />
+      <item itemvalue="Application.CopyJavaDemo" />
+      <item itemvalue="Application.CopyJavaDemo02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BufferedInputStreamDemo" />
-        <item itemvalue="Application.BufferedStreamDemo" />
-        <item itemvalue="Application.FileInputStreamDemo01" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CopyImageDemo" />
+        <item itemvalue="Application.CopyJavaDemo02" />
+        <item itemvalue="Application.CopyJavaDemo" />
+        <item itemvalue="Application.InputStreamReaderDemo" />
+        <item itemvalue="Application.OutputStreamWriterDemo" />
+        <item itemvalue="Application.ConversionStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +352,8 @@
       <workItem from="1606789609047" duration="6041000" />
       <workItem from="1606817186061" duration="6825000" />
       <workItem from="1606903066880" duration="1179000" />
-      <workItem from="1606978656056" duration="5260000" />
+      <workItem from="1606978656056" duration="5289000" />
+      <workItem from="1607309591489" duration="6043000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -528,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605780111563</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="feat：新增Java File类的笔记">
+      <created>1607072655128</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1607072655128</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,38 +612,38 @@
     </state>
     <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1603547429111" />
     <state x="969" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1605752792617" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1605780111306">
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1607072654811">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1602391457476" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601872432283" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1605780111306" />
-    <state width="1396" height="148" key="GridCell.Tab.0.bottom" timestamp="1607050594800">
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607072654811" />
+    <state width="1396" height="227" key="GridCell.Tab.0.bottom" timestamp="1607658159330">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="148" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607050594800" />
+    <state width="1396" height="227" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607658159330" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="259" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
-    <state width="1396" height="148" key="GridCell.Tab.0.center" timestamp="1607050594799">
+    <state width="1396" height="227" key="GridCell.Tab.0.center" timestamp="1607658159329">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="148" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607050594799" />
+    <state width="1396" height="227" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607658159329" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="259" key="GridCell.Tab.0.center/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
-    <state width="1396" height="148" key="GridCell.Tab.0.left" timestamp="1607050594798">
+    <state width="1396" height="227" key="GridCell.Tab.0.left" timestamp="1607658159328">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603629623144" />
-    <state width="1396" height="148" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607050594798" />
+    <state width="1396" height="227" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607658159328" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
     <state width="1396" height="259" key="GridCell.Tab.0.left/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570141" />
-    <state width="1396" height="148" key="GridCell.Tab.0.right" timestamp="1607050594800">
+    <state width="1396" height="227" key="GridCell.Tab.0.right" timestamp="1607658159329">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="148" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607050594800" />
+    <state width="1396" height="227" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607658159329" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="259" key="GridCell.Tab.0.right/0.23.1440.819/1440.-102.1920.1057@0.23.1440.819" timestamp="1598854570142" />
     <state width="1396" height="211" key="GridCell.Tab.1.bottom" timestamp="1606735103592">
@@ -689,12 +684,12 @@
     <state x="0" y="23" width="1440" height="808" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1602391240391" />
     <state x="0" y="23" width="1440" height="811" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1601870502586" />
     <state x="182" y="23" key="SettingsEditor/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1605780027941" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1605780113143">
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1607072657216">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1602391459200" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601872434993" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1605780113143" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607072657216" />
     <state x="267" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604986886348">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
