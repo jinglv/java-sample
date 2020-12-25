@@ -1,10 +1,15 @@
 package com.demo.model;
 
+import java.io.Serializable;
+
 /**
  * @author jingLv
  * @date 2020/12/15
  */
-public class Student {
+public class Student implements Serializable {
+
+    private static final long serialVersionUID = -3657072962604195830L;
+
     private String sid;
     private String name;
     private int age;
@@ -50,6 +55,10 @@ public class Student {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    public void study() {
+        System.out.println("学生们在学习");
     }
 
     @Override

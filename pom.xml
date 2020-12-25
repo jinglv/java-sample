@@ -18,6 +18,7 @@
         <module>java-thread</module>
         <module>java-tools</module>
         <module>java-file-class</module>
+        <module>java-collection</module>
     </modules>
 
 </project>

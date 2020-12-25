@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java-collection" />
         <module name="java-new" />
         <module name="java-algorithms" />
         <module name="java-principle" />
@@ -17,14 +18,15 @@
         <module name="java-file-class" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
+    <bytecodeTargetLevel target="9">
       <module name="java-algorithms" target="8" />
+      <module name="java-collection" target="9" />
       <module name="java-design-pattern" target="8" />
-      <module name="java-file-class" target="8" />
-      <module name="java-leet-code" target="8" />
+      <module name="java-file-class" target="9" />
+      <module name="java-leet-code" target="9" />
       <module name="java-new" target="8" />
       <module name="java-principle" target="8" />
-      <module name="java-sample" target="8" />
+      <module name="java-sample" target="9" />
       <module name="java-thread" target="8" />
       <module name="java-tools" target="8" />
     </bytecodeTargetLevel>
