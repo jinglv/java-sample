@@ -12,115 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-collection/java-collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collection/CollectionDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collection/CollectionDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collection/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/iterator/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/collection/CollectionDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/collection/CollectionDemo02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/collection/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/iterator/IteratorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/fw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/game.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/oos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/ps.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/pw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/FileException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/cases/CopyFolderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/cases/CopyFoldersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/chars/TreeSetToFileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/model/StudentSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/CopyJavaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/ObjectInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/ObjectOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/ObjectStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/PrintStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/PrintWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/PropertiesDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/PropertiesDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/PropertiesDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/SystemInDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/system/SystemOutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/FileException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/cases/CopyFolderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/cases/CopyFoldersDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/TreeSetToFileDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/TreeSetToFileDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/model/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/model/StudentSource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/CopyJavaDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/GuessNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/ObjectInputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/ObjectOutputStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/ObjectStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/PrintStreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/PrintWriterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/PropertiesDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/PropertiesDemo02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/PropertiesDemo03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/PropertiesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/SystemInDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/system/SystemOutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collection/CollectionStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ArrayListDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/LinkedListDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/LinkedListDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ListDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ListDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ListDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ListIteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ListStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/list/ListStudentFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/ConversionStreamDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/CopyJavaFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/array.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/b.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/bw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/java-file-class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/java-file-class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/src/main/java/com/demo/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/students.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/StringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/StringDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/BufferedInputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/BufferedInputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/BufferedOutputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/BufferedOutputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyAviDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyAviDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyImageDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyImageDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyTxtDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/CopyTxtDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileInputStreamDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileInputStreamDemo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo04.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/FileOutputStreamDemo04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodFour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/bytes/ReadMethodTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ArrayListToTxtDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ArrayListToTxtDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ArrayListToTxtDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ArrayListToTxtDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamCopyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamCopyDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamCopyDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamCopyDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/BufferedStreamDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CallNameDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CallNameDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ConversionStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ConversionStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CopyJavaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CopyJavaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CopyJavaDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/CopyJavaDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/InputStreamReaderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/InputStreamReaderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/OutputStreamWriterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/OutputStreamWriterDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ReadMethodOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ReadMethodOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ReadMethodTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/ReadMethodTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/TxtToArrayListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/TxtToArrayListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/TxtToArrayListDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/chars/TxtToArrayListDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemoMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemoMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemoPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/FileDemoPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/MyFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/MyFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/RecursionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/file/RecursionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-file-class/target/classes/com/demo/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/java-leet-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/java-leet-code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-sample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/target/classes/com/demo/collection/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/collection/Demo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,13 +138,13 @@
       <recent name="$PROJECT_DIR$/java-thread/image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="CollectionDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.collection.CollectionDemo01" />
+  <component name="RunManager" selected="Application.LinkedListDemo02">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.list.ArrayListDemo" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.collection.*" />
+          <option name="PATTERN" value="com.demo.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.collection.CollectionDemo02" />
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.list.ForDemo" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.collection.*" />
+          <option name="PATTERN" value="com.demo.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.collection.Demo" />
+    <configuration name="LinkedListDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.list.LinkedListDemo01" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.collection.*" />
+          <option name="PATTERN" value="com.demo.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.iterator.IteratorDemo" />
+    <configuration name="LinkedListDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.list.LinkedListDemo02" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.iterator.*" />
+          <option name="PATTERN" value="com.demo.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.system.PropertiesTest" />
-      <module name="java-file-class" />
+    <configuration name="ListStudentFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.list.ListStudentFor" />
+      <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.system.*" />
+          <option name="PATTERN" value="com.demo.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,19 +205,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PropertiesTest" />
-      <item itemvalue="Application.CollectionDemo01" />
-      <item itemvalue="Application.CollectionDemo02" />
-      <item itemvalue="Application.IteratorDemo" />
-      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.ForDemo" />
+      <item itemvalue="Application.ListStudentFor" />
+      <item itemvalue="Application.ArrayListDemo" />
+      <item itemvalue="Application.LinkedListDemo01" />
+      <item itemvalue="Application.LinkedListDemo02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.CollectionDemo02" />
-        <item itemvalue="Application.CollectionDemo01" />
-        <item itemvalue="Application.PropertiesTest" />
+        <item itemvalue="Application.LinkedListDemo02" />
+        <item itemvalue="Application.LinkedListDemo01" />
+        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.ListStudentFor" />
+        <item itemvalue="Application.ForDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +336,10 @@
       <workItem from="1608173566253" duration="5001000" />
       <workItem from="1608527811930" duration="12297000" />
       <workItem from="1608626271056" duration="6251000" />
-      <workItem from="1608777725368" duration="4501000" />
+      <workItem from="1608777725368" duration="4546000" />
+      <workItem from="1609121661556" duration="5594000" />
+      <workItem from="1609207601031" duration="3584000" />
+      <workItem from="1609295540681" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -615,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608000900605</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feat：新增Java File类的笔记">
+      <created>1608886258718</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1608886258718</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -699,40 +614,40 @@
     </state>
     <state x="441" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1602391303497" />
     <state x="441" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1601872474216" />
-    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1608713016950">
+    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1609213054634">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1603547429111" />
-    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608713016950" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1608000900093">
+    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609213054634" />
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1608886258379">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1602391457476" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601872432283" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608000900093" />
-    <state width="1396" height="157" key="GridCell.Tab.0.bottom" timestamp="1608880932861">
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608886258379" />
+    <state width="1396" height="157" key="GridCell.Tab.0.bottom" timestamp="1609301011748">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="157" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608880932861" />
+    <state width="1396" height="157" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609301011748" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
-    <state width="1396" height="157" key="GridCell.Tab.0.center" timestamp="1608880932860">
+    <state width="1396" height="157" key="GridCell.Tab.0.center" timestamp="1609301011747">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="157" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608880932860" />
+    <state width="1396" height="157" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609301011747" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
-    <state width="1396" height="157" key="GridCell.Tab.0.left" timestamp="1608880932860">
+    <state width="1396" height="157" key="GridCell.Tab.0.left" timestamp="1609301011747">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603629623144" />
-    <state width="1396" height="157" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608880932860" />
+    <state width="1396" height="157" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609301011747" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
-    <state width="1396" height="157" key="GridCell.Tab.0.right" timestamp="1608880932861">
+    <state width="1396" height="157" key="GridCell.Tab.0.right" timestamp="1609301011748">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="157" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608880932861" />
+    <state width="1396" height="157" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609301011748" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="211" key="GridCell.Tab.1.bottom" timestamp="1606735103592">
       <screen x="0" y="23" width="1440" height="812" />
@@ -772,12 +687,12 @@
     <state x="0" y="23" width="1440" height="808" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1602391240391" />
     <state x="0" y="23" width="1440" height="811" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1601870502586" />
     <state x="182" y="23" key="SettingsEditor/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608779366910" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1608000902081">
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1608886262709">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1602391459200" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601872434993" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608000902081" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608886262709" />
     <state x="267" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604986886348">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
