@@ -12,18 +12,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/HashDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/HashSetDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/HashSetStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/SetDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/HashDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/HashSetDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/HashSetStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/SetDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/entity/StudentScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/LinkedHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/TreeSetDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/TreeSetDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/TreeSetDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/TreeSetDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/set/TreeSetDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/entity/StudentScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/LinkedHashSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/TreeSetDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/TreeSetDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/TreeSetDemo03$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/TreeSetDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/TreeSetDemo04$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/TreeSetDemo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/TreeSetDemo05.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/target/classes/com/demo/entity/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/entity/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/target/classes/com/demo/list/LinkedListDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/list/LinkedListDemo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/HashDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-collection/target/classes/com/demo/set/HashDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,9 +143,9 @@
       <recent name="$PROJECT_DIR$/java-thread/image" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashSetStudent">
-    <configuration name="HashDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.set.HashDemo" />
+  <component name="RunManager" selected="Application.TreeSetDemo05">
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.set.TreeSetDemo" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.set.HashSetDemo01" />
+    <configuration name="TreeSetDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.set.TreeSetDemo02" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
@@ -163,8 +170,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.set.HashSetStudent" />
+    <configuration name="TreeSetDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.set.TreeSetDemo03" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
@@ -176,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.list.LinkedListDemo02" />
+    <configuration name="TreeSetDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.set.TreeSetDemo04" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.list.*" />
+          <option name="PATTERN" value="com.demo.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.set.SetDemo01" />
+    <configuration name="TreeSetDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.set.TreeSetDemo05" />
       <module name="java-collection" />
       <extension name="coverage">
         <pattern>
@@ -203,19 +210,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LinkedListDemo02" />
-      <item itemvalue="Application.SetDemo01" />
-      <item itemvalue="Application.HashDemo" />
-      <item itemvalue="Application.HashSetDemo01" />
-      <item itemvalue="Application.HashSetStudent" />
+      <item itemvalue="Application.TreeSetDemo" />
+      <item itemvalue="Application.TreeSetDemo02" />
+      <item itemvalue="Application.TreeSetDemo03" />
+      <item itemvalue="Application.TreeSetDemo04" />
+      <item itemvalue="Application.TreeSetDemo05" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetStudent" />
-        <item itemvalue="Application.HashDemo" />
-        <item itemvalue="Application.HashSetDemo01" />
-        <item itemvalue="Application.SetDemo01" />
-        <item itemvalue="Application.LinkedListDemo02" />
+        <item itemvalue="Application.TreeSetDemo05" />
+        <item itemvalue="Application.TreeSetDemo04" />
+        <item itemvalue="Application.TreeSetDemo03" />
+        <item itemvalue="Application.TreeSetDemo02" />
+        <item itemvalue="Application.TreeSetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +345,8 @@
       <workItem from="1609121661556" duration="5594000" />
       <workItem from="1609207601031" duration="3584000" />
       <workItem from="1609295540681" duration="2242000" />
-      <workItem from="1609381579025" duration="3977000" />
+      <workItem from="1609381579025" duration="4015000" />
+      <workItem from="1609813929088" duration="4694000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -536,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609301309727</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="feat：新增Java Set集合的笔记">
+      <created>1609410271376</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1609410271376</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +616,8 @@
     <MESSAGE value="feat：新增多线程笔记" />
     <MESSAGE value="feat：新增Java File类的笔记" />
     <MESSAGE value="feat：新增Java List集合的笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：新增Java List集合的笔记" />
+    <MESSAGE value="feat：新增Java Set集合的笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：新增Java Set集合的笔记" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="115" key="#Inspections" timestamp="1604888660041">
@@ -621,40 +637,40 @@
     </state>
     <state x="441" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1602391303497" />
     <state x="441" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1601872474216" />
-    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1609213054634">
+    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1609817738932">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1603547429111" />
-    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609213054634" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1609301309425">
+    <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609817738932" />
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1609410271117">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1602391457476" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601872432283" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609301309425" />
-    <state width="1396" height="224" key="GridCell.Tab.0.bottom" timestamp="1609385997759">
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609410271117" />
+    <state width="1396" height="224" key="GridCell.Tab.0.bottom" timestamp="1609818804543">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="224" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609385997759" />
+    <state width="1396" height="224" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609818804543" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
-    <state width="1396" height="224" key="GridCell.Tab.0.center" timestamp="1609385997758">
+    <state width="1396" height="224" key="GridCell.Tab.0.center" timestamp="1609818804542">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="224" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609385997758" />
+    <state width="1396" height="224" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609818804542" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
-    <state width="1396" height="224" key="GridCell.Tab.0.left" timestamp="1609385997757">
+    <state width="1396" height="224" key="GridCell.Tab.0.left" timestamp="1609818804542">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603629623144" />
-    <state width="1396" height="224" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609385997757" />
+    <state width="1396" height="224" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609818804542" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
-    <state width="1396" height="224" key="GridCell.Tab.0.right" timestamp="1609385997758">
+    <state width="1396" height="224" key="GridCell.Tab.0.right" timestamp="1609818804543">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="224" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609385997758" />
+    <state width="1396" height="224" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609818804543" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
     <state width="1396" height="211" key="GridCell.Tab.1.bottom" timestamp="1606735103592">
       <screen x="0" y="23" width="1440" height="812" />
@@ -694,12 +710,12 @@
     <state x="0" y="23" width="1440" height="808" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1602391240391" />
     <state x="0" y="23" width="1440" height="811" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1601870502586" />
     <state x="182" y="23" key="SettingsEditor/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608779366910" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1609301311450">
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1609410273514">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1602391459200" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601872434993" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609301311450" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609410273514" />
     <state x="267" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604986886348">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
@@ -717,6 +733,10 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="421" y="160" width="598" height="566" key="find.popup/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1604399492889" />
+    <state x="419" y="224" key="git4idea.merge.GitPullDialog" timestamp="1609813935359">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="419" y="224" key="git4idea.merge.GitPullDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609813935359" />
     <state x="0" y="23" width="1440" height="812" key="new project wizard" timestamp="1608779110288">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
