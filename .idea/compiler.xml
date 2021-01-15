@@ -13,20 +13,22 @@
         <module name="java-algorithms" />
         <module name="java-principle" />
         <module name="java-tools" />
-        <module name="java-design-pattern" />
         <module name="java-thread" />
+        <module name="java-design-pattern" />
+        <module name="java-annotation" />
         <module name="java-file-class" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
       <module name="java-algorithms" target="8" />
-      <module name="java-collection" target="9" />
+      <module name="java-annotation" target="8" />
+      <module name="java-collection" target="8" />
       <module name="java-design-pattern" target="8" />
       <module name="java-file-class" target="9" />
       <module name="java-leet-code" target="8" />
       <module name="java-new" target="8" />
       <module name="java-principle" target="8" />
-      <module name="java-sample" target="9" />
+      <module name="java-sample" target="8" />
       <module name="java-thread" target="8" />
       <module name="java-tools" target="8" />
     </bytecodeTargetLevel>

@@ -19,6 +19,7 @@
         <module>java-tools</module>
         <module>java-file-class</module>
         <module>java-collection</module>
+        <module>java-annotation</module>
     </modules>
 
 </project>

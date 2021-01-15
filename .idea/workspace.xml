@@ -12,32 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a8987d3-c1f0-4e9b-84d7-da626f0d6714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collections/CollectionsDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collections/CollectionsDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collections/PokerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/collections/PokerPlusDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/ArrayListIncludeHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/HashMapIncludeArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/MapDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/MapDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/MapDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/MapDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/MapDemo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/MapDemo06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collection/src/main/java/com/demo/map/MapDemo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-leet-code/src/main/java/com/example/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-annotation/src/main/java/com/demo/AnnoDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-annotation/src/main/java/com/demo/MyAnno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/java-leet-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-leet-code/java-leet-code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/IsAnagramTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/IsPalindromeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/RemoveDuplicatesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/ReverseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/RomanToIntTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/RotateTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-leet-code/src/test/java/com/example/TwoSumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/java-collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-collection/java-collection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-sample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,7 +342,8 @@
       <workItem from="1609924335201" duration="3293000" />
       <workItem from="1609987137127" duration="2870000" />
       <workItem from="1610015873655" duration="15389000" />
-      <workItem from="1610592160025" duration="3366000" />
+      <workItem from="1610592160025" duration="6147000" />
+      <workItem from="1610678552641" duration="1150000" />
     </task>
     <task id="LOCAL-00001" summary="[add]学习内容">
       <created>1586354600960</created>
@@ -578,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609910852768</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="feat：新增Java Map集合的笔记">
+      <created>1610596824974</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1610596824974</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +636,8 @@
     <MESSAGE value="feat：新增Java List集合的笔记" />
     <MESSAGE value="feat：新增Java Set集合的笔记" />
     <MESSAGE value="feat：新增Java 泛型集合的笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：新增Java 泛型集合的笔记" />
+    <MESSAGE value="feat：新增Java Map集合的笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：新增Java Map集合的笔记" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="115" key="#Inspections" timestamp="1604888660041">
@@ -656,6 +648,10 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="274" y="191" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1605263227673" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610678679381">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610678679381" />
     <state x="441" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602391303497">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -665,35 +661,31 @@
     </state>
     <state x="1066" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1603547429111" />
     <state x="917" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609903687810" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1609910852386">
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1610596824622">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1602391457476" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609910852386" />
-    <state width="1396" height="189" key="GridCell.Tab.0.bottom" timestamp="1610594043170">
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610596824622" />
+    <state width="1396" height="189" key="GridCell.Tab.0.bottom" timestamp="1610604117062">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="189" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610594043170" />
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
-    <state width="1396" height="189" key="GridCell.Tab.0.center" timestamp="1610594043169">
+    <state width="1396" height="189" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610604117062" />
+    <state width="1396" height="189" key="GridCell.Tab.0.center" timestamp="1610604117061">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="189" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610594043169" />
-    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
-    <state width="1396" height="189" key="GridCell.Tab.0.left" timestamp="1610594043168">
+    <state width="1396" height="189" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610604117061" />
+    <state width="1396" height="189" key="GridCell.Tab.0.left" timestamp="1610604117060">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1603629623144" />
-    <state width="1396" height="189" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610594043168" />
-    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601978156825" />
-    <state width="1396" height="189" key="GridCell.Tab.0.right" timestamp="1610594043170">
+    <state width="1396" height="189" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610604117060" />
+    <state width="1396" height="189" key="GridCell.Tab.0.right" timestamp="1610604117061">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="242" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1603629623145" />
-    <state width="1396" height="189" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610594043170" />
-    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601978156826" />
+    <state width="1396" height="189" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610604117061" />
     <state width="1396" height="211" key="GridCell.Tab.1.bottom" timestamp="1609998355895">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
@@ -714,16 +706,16 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="335" y="135" key="NewModule_or_Project.wizard/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1607936646985" />
-    <state x="182" y="23" width="1440" height="808" key="SettingsEditor" timestamp="1609926202994">
+    <state x="182" y="23" width="1440" height="808" key="SettingsEditor" timestamp="1610678780636">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="0" y="23" width="1440" height="808" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1602391240391" />
-    <state x="182" y="23" key="SettingsEditor/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609926202994" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1609910854345">
+    <state x="182" y="23" key="SettingsEditor/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610678780636" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1610596826979">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1602391459200" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609910854345" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610596826979" />
     <state x="267" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604986886348">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
@@ -745,11 +737,11 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="419" y="224" key="git4idea.merge.GitPullDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1609813935359" />
-    <state x="0" y="23" width="1440" height="812" key="new project wizard" timestamp="1608779110288">
+    <state x="0" y="23" width="1440" height="812" key="new project wizard" timestamp="1610597075837">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="88" y="23" width="1264" height="811" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1603629545450" />
-    <state x="0" y="23" width="1440" height="812" key="new project wizard/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1608779110288" />
+    <state x="0" y="23" width="1440" height="812" key="new project wizard/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1610597075837" />
     <state x="385" y="194" key="run.anything.popup" timestamp="1610440982374">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
